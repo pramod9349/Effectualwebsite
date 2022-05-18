@@ -56,8 +56,11 @@ export default function index() {
   }}
         
         className="swiper mySwiper">
-            <SwiperSlide className="swiper-slide">
+          <SwiperSlide className="swiper-slide">
             <div class="px-10 py-6 text-center transition duration-300 transform bg-gray-900 rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="awards/best-places.jpg" alt="client1" /></div>
+            </SwiperSlide>
+            <SwiperSlide className="swiper-slide">
+            <div class="px-10 py-6 text-center transition duration-300 transform bg-gray-900 rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="awards/Leader.png" alt="client1" /></div>
             </SwiperSlide>
             <SwiperSlide className="swiper-slide">
             <div class="px-10 py-6 text-center transition duration-300 transform bg-gray-900 rounded shadow-2xl hover:scale-105 md:shadow-xl hover:shadow-2xl"><img src="awards/certificate-registration.jpg" alt="client2" /></div>
