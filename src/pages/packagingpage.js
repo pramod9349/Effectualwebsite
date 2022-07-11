@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
 import Navigation from '../components/navigation'
 import Footer from '../components/footer'
-import foodChemistrypage from './foodChemistrypage';
-import chemicalstructuresearchpage from './chemicalstructuresearchpage';
+
 
 class packagingpage extends Component {
     render() {

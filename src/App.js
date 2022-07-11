@@ -127,7 +127,7 @@ import Tendanalysispage from './pages/tendanalysispage';
 import Historicaldatapage from './pages/historicaldatapage';
 import Depositionsmmarypage from './pages/depositionsmmarypage';
 import Buyeridentificationpage from './pages/buyeridentificationpage';
-import Loginpage from './pages/loginpage';
+// import Loginpage from './pages/loginpage';
 import Lte3GPPage from './pages/lte3GPPage';
 import Smartdevicespage from './pages/smartdevicespage';
 import Entertainmentdevicepage from './pages/entertainmentdevicepage';
@@ -277,7 +277,7 @@ function App() {
   return (
     <Routes>
     <Route path="/" element={<Home />} />
-    <Route path="/login" element={<Loginpageroute />} />
+    {/* <Route path="/login" element={<Loginpageroute />} /> */}
     <Route path="/contact-us" element={<Contactus />} />
     <Route path="/life-at-effectual" element={<Lifeeffectual />} />
     <Route path="/career" element={<Career />} />
@@ -1602,12 +1602,12 @@ function Lte3gppsearch()
   }
 
 
-function Loginpageroute()
-{
-  return(
-    < Loginpage />
-  );
-  }
+// function Loginpageroute()
+// {
+//   return(
+//     < Loginpage />
+//   );
+//   }
 
 
 function BuyerIdentification()
