@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 // import Contactmodel from './contactmodel'
 import Swal from 'sweetalert2'
-import indianpatentapplicationdraftingpage from '../pages/indianpatentapplicationdraftingpage';
+//import indianpatentapplicationdraftingpage from '../pages/indianpatentapplicationdraftingpage';
 
 class footer extends Component {
 
