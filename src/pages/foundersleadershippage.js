@@ -109,7 +109,7 @@ function learnnishant(){
                   '<div class="lg:w-3/4">' +
                       '<p class="mt-8 text-gray-500 dark:text-gray-400 text-justify">Nishant is a leading expert in the intellectual property space and has been a strategy advisor to clients around the globe. He has extensive experience in the IP and business research domain and has worked with leading multi-national and regional corporations on patent and R&D strategy, innovation foundation, business planning, operations, patent infringement, prior art searches, patent litigation and enforcement support services.' +
                       '</p><p class="mt-4 text-gray-500 dark:text-gray-400 text-justify">' +
-                        'Nishant holds a bachelors degree in computer science engineering from Delhi University. He has worked in offices of leading law firms in the US and UK and has also undergone extensive training in patent law from US and European patent attorneys. He was also working in a strategy consulting role in the UK for two years managing large accounts across European region.' +'<br></br>'+ 
+                        'Nishant holds a bachelors degree in computer science engineering from Delhi University. He has worked in offices of leading law firms in the US and UK and has also undergone extensive training in patent law from US and European patent attorneys. He was also working in a strategy consulting role in the UK for two years managing large accounts across European region.' +
                   '</div>' + 
                          
                   '<div>'+
