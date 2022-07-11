@@ -267,6 +267,10 @@ import DroneAerialVehiclepage from './pages/droneAerialVehiclepage';
 import CADCAMRoboticsMechatronicspage from './pages/cADCAMRoboticsMechatronicspage';
 import Cablespages from './pages/cablespages';
 import ScientificInstrumentspage from './pages/scientificInstrumentspage';
+import Locationmonitoringservicespage from './pages/locationmonitoringservicespage';
+import Immunologypage from './pages/immunologypage';
+import Genomicspage from './pages/genomicspage';
+import PetrChemicalpage from './pages/petrChemicalpage';
 
 
 import {  Routes, Route } from 'react-router-dom';
@@ -417,7 +421,6 @@ function App() {
     <Route path="/Flexible-display" element={<Flexibledisplayis />} />
     <Route path="/Cybersecurity" element={<Cybersecurityis />} />
     <Route path="/Wellness-application" element={<WellnessApplicationis />} />
-    <Route path="/Wellness-application" element={<WellnessApplicationis />} />
     <Route path="/Smart-Speakers" element={<Smartspeakersis />} />
     <Route path="/lCD-Display-Devices" element={<LCDDisplayDevicesis />} />
     <Route path="/Power-Electronics" element={<Powerelectronicsis />} />
@@ -547,10 +550,43 @@ function App() {
     <Route path="/CAD-CAMRobotics-Mechatronics" element={<CADCAMRoboticsMechatronicspagefunction />} />
     <Route path="/Cables" element={<Cablesfunction />} />
     <Route path="/Scientific-Instruments" element={<ScientificInstrumentsfun />} />
+    <Route path="/Location-Monitoring-Services" element={<Locationminitoringservices />} />
+    <Route path="/Immunology" element={<Immunologypagefunc />} />
+    <Route path="/Genomics" element={<Genomicsfunction />} />
+    <Route path="/Petro-Chemical" element={<Petrochemicalfunction />} />
+    
 
    </Routes>
   );
 }
+
+function Petrochemicalfunction()
+{
+  return(
+    <PetrChemicalpage  /> 
+  );
+  }
+
+function Genomicsfunction()
+{
+  return(
+    < Genomicspage /> 
+  );
+  }
+
+function Immunologypagefunc()
+{
+  return(
+    < Immunologypage /> 
+  );
+  }
+
+function Locationminitoringservices()
+{
+  return(
+    < Locationmonitoringservicespage /> 
+  );
+  }
 
 function ScientificInstrumentsfun()
 {

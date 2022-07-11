@@ -37,21 +37,21 @@ class lifesciencespage extends Component {
       <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
         
         <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
-          <a href="/">
+          <a href="/Agriculture">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Agriculture
           </a>
-          <a href="/">
+          <a href="/Analytical-Device">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Analytical Device
           </a>
-          <a href="/">
+          <a href="/Biochemistry">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
@@ -59,63 +59,63 @@ class lifesciencespage extends Component {
             </span>Biochemistry
           </a>
           
-          <a href="/">
+          <a href="/Binformatics">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Bioinformatics
           </a>
-          <a href="/">
+          <a href="/Biotechnology">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Biotechnology
           </a>
-          <a href="/">
+          <a href="/Cosmetic">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Cosmetic
           </a>
-          <a href="/">
+          <a href="/Distillery">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Distillery
           </a>
-          <a href="/">
+          <a href="/Entomology">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Entomology
           </a>
-          <a href="/">
+          <a href="/Enzymology">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Enzymology
           </a>
-          <a href="/">
+          <a href="/Fisheries">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Fisheries
           </a>
-          <a href="/">
+          <a href="/Forestry">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Forestry
           </a>
-          <a href="/">
+          <a href="/Green-Chemistry">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
@@ -123,28 +123,28 @@ class lifesciencespage extends Component {
             </span>Green Chemistry
           </a>
          
-          <a href="/">
+          <a href="/Inorganic-Chemistry">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Inorganic Chemistry
           </a>
-          <a href="/">
+          <a href="/Metallurgy">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Metallurgy
           </a>
-          <a href="/">
+          <a href="/Neuroscience">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Neuroscience
           </a>
-          <a href="/">
+          <a href="/Organic-Chemistry">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
@@ -157,7 +157,7 @@ class lifesciencespage extends Component {
       <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
         
         <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
-          <a href="/">
+          <a href="/Agro-Chemical">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
@@ -165,14 +165,14 @@ class lifesciencespage extends Component {
             </span>
             Agro Chemical
           </a>
-          <a href="/">
+          <a href="/Animal-Husbandry">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Animal Husbandry
           </a>
-          <a href="/">
+          <a href="/Bioelectronics">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
@@ -180,63 +180,63 @@ class lifesciencespage extends Component {
             </span>Bioelectronics
           </a>
           
-          <a href="/">
+          <a href="/Biomedical-devices">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Biomedical Device
           </a>
-          <a href="/">
+          <a href="/Cell-Biology">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Cell Biology
           </a>
-          <a href="/">
+          <a href="/Dental-Chemistry">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Dental Chemistry
           </a>
-          <a href="/">
+          <a href="/Electrochemistry">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Electrochemistry
           </a>
-          <a href="/">
+          <a href="/Environmental-Science">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Environmental Science
           </a>
-          <a href="/">
+          <a href="/Epidemiology">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Epidemiology
           </a>
-          <a href="/">
+          <a href="/Food-Chemistry">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Food Chemistry
           </a>
-          <a href="/">
+          <a href="/Geneticengineering">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Genetic Engineering
           </a>
-          <a href="/">
+          <a href="/Immunology">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
@@ -244,28 +244,28 @@ class lifesciencespage extends Component {
             </span>Immunology
           </a>
           
-          <a href="/">
+          <a href="/Medical-Devices">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Medical Device
           </a>
-          <a href="/">
+          <a href="/Microbiology">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Microbiology
           </a>
-          <a href="/">
+          <a href="/Pathology">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Pathology
           </a>
-          <a href="/">
+          <a href="/Pharmacogenomics">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
@@ -277,105 +277,105 @@ class lifesciencespage extends Component {
       <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
        
         <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
-          <a href="/">
+          <a href="/Analytical-Chemistry">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Analytical Chemistry
           </a>
-          <a href="/">
+          <a href="/Bacteriology">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Bacteriology
           </a>
-          <a href="/">
+          <a href="/Bioengineering">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Bioengineering
           </a>
-          <a href="/">
+          <a href="/Biophysics">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Biophysics
           </a>
-          <a href="/">
+          <a href="/Chemistry">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Chemistry
           </a>
-          <a href="/">
+          <a href="/design-search">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Design Search
           </a>
-          <a href="/">
+          <a href="/Entertainment-Device">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Entertainment Device
           </a>
-          <a href="/">
+          <a href="/Environmental-Chemistry">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Environmental Chemistry
           </a>
-          <a href="/">
+          <a href="/Fermentation-technology">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Fermentation technology
           </a>
-          <a href="/">
+          <a href="/Foodprocessing-devices">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Food Processing Devices
           </a>
-          <a href="/">
+          <a href="/Genomics">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Genomics
           </a>
-          <a href="/">
+          <a href="/Instrialchemistry">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Industrial Chemistry
           </a>
-          <a href="/">
+          <a href="/Medical-Imaging">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Medical Imaging
           </a>
-          <a href="/">
+          <a href="/Molecular-biology">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Molecular Biology (Nucleic Acids and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proteins)
           </a>
-          <a href="/">
+          <a href="/Polymer">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
@@ -388,28 +388,28 @@ class lifesciencespage extends Component {
       <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
        
         <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
-          <a href="/">
+          <a href="/Mycology">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Mycology
           </a>
-          <a href="/">
+          <a href="/Optogenetics">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Optogenetics
           </a>
-          <a href="/">
+          <a href="/Packaging">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Packaging
           </a>
-          <a href="/">
+          <a href="/Petro-Chemical">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
@@ -417,35 +417,35 @@ class lifesciencespage extends Component {
             </span>Petro Chemical
           </a>
          
-          <a href="/">
+          <a href="/Physical-Chemistry">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Physical Chemistry
           </a>
-          <a href="/">
+          <a href="/Proteomics">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Proteomics
           </a>
-          <a href="/">
+          <a href="/Tire">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Tire
           </a>
-          <a href="/">
+          <a href="/Nano-Chemistry">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Nano Chemistry
           </a>
-          <a href="/">
+          <a href="/Oral-Care">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
@@ -453,49 +453,49 @@ class lifesciencespage extends Component {
             </span>Oral Care
           </a>
           
-          <a href="/">
+          <a href="/Parasitology">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Parasitology
           </a>
-          <a href="/">
+          <a href="/Pharma">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Pharma
           </a>
-          <a href="/">
+          <a href="/Plant-Sciences">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Plant Sciences
           </a>
-          <a href="/">
+          <a href="/Synthetic-Chemistry">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Synthetic Chemistry
           </a>
-          <a href="/">
+          <a href="/Tissue-engineering">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Tissue engineering
           </a>
-          <a href="/">
+          <a href="/Textile">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Textile
           </a>
-          <a href="/">
+          <a href="/Virology">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
@@ -529,11 +529,7 @@ class lifesciencespage extends Component {
 
   <div class ="bg-indigo-200 h-100 justify-center   ">
     
-
-
   </div>
-
-
 <h2 class="mt-16 font-sans text-3xl font-bold tracking-tight text-center text-black sm:text-4xl sm:leading-none">
   Case Studies     
   </h2> 

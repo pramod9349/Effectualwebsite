@@ -39,21 +39,21 @@ class informationcommunicationtechnologypage extends Component {
       <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
         
         <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
-          <a href="/">
+          <a href="/lte-3gpp">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>LTE/3GPP
           </a>
-          <a href="/">
+          <a href="/Smart-Decives">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Smart Devices
           </a>
-          <a href="/">
+          <a href="/Entertainment-Device">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
@@ -61,63 +61,63 @@ class informationcommunicationtechnologypage extends Component {
             </span>Entertainment Device
           </a>
           
-          <a href="/">
+          <a href="/Cloud-computing">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Cloud Computing
           </a>
-          <a href="/">
+          <a href="/IPcalling-VoLTE">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>IP calling/VoLTE
           </a>
-          <a href="/">
+          <a href="/Network-Security">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Network Security
           </a>
-          <a href="/">
+          <a href="/Wi-Fi-Standards">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Wi-Fi Standards
           </a>
-          <a href="/">
+          <a href="/Flexible-display">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Flexible Display
           </a>
-          <a href="/">
+          <a href="/Cybersecurity">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Cybersecurity
           </a>
-          <a href="/">
+          <a href="/Wellness-application">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Wellness Application
           </a>
-          <a href="/">
+          <a href="/Smart-Speakers">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Smart Speakers
           </a>
-          <a href="/">
+          <a href="/lCD-Display-Devices">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
@@ -125,49 +125,49 @@ class informationcommunicationtechnologypage extends Component {
             </span>LCD/LED/OLED-Display Devices
           </a>
           
-          <a href="/">
+          <a href="/Power-Electronics">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Power Electronics
           </a>
-          <a href="/">
+          <a href="/Data-compression-Technology">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Data compression Technology
           </a>
-          <a href="/">
+          <a href="/3D-Printing">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>3D Printing
           </a>
-          <a href="/">
+          <a href="/Intelligent-Tire">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Intelligent Tire
           </a>
-          <a href="/">
+          <a href="/Medical-Imaging">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Medical Imaging
           </a>
-          <a href="/">
+          <a href="/Solar-Panel-Green-Energy">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Solar Panel-Green Energy
           </a>
-          <a href="/">
+          <a href="/Smart-Factories">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
@@ -179,21 +179,21 @@ class informationcommunicationtechnologypage extends Component {
       <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
         
         <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
-          <a href="/">
+          <a href="/5-G">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>5G
           </a>
-          <a href="/">
+          <a href="/Memory-Devices">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Memory Devices-SOT-MRAM/DRAM etc
           </a>
-          <a href="/">
+          <a href="/MPEG-Video-Audio-Codec">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
@@ -201,63 +201,63 @@ class informationcommunicationtechnologypage extends Component {
             </span>MPEG-Video/Audio Codec
           </a>
           
-          <a href="/">
+          <a href="/Navigation-Devices">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Navigation Devices
           </a>
-          <a href="/">
+          <a href="/IEEE">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>IEEE 802.11 XX
           </a>
-          <a href="/">
+          <a href="/Smart-Sensor">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Smart Sensor
           </a>
-          <a href="/">
+          <a href="/IoT">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>IoT
           </a>
-          <a href="/">
+          <a href="/ITU-Standard">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>ITU Standard
           </a>
-          <a href="/">
+          <a href="/Vehicle-Interior-Systems">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Vehicle Interior Systems
           </a>
-          <a href="/">
+          <a href="/blockChain">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>BlockChain
           </a>
-          <a href="/">
+          <a href="/Autonomous-Vehicles">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Autonomous Vehicles
           </a>
-          <a href="/">
+          <a href="/Smart-Homes">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
@@ -265,49 +265,49 @@ class informationcommunicationtechnologypage extends Component {
             </span>Smart Homes
           </a>
           
-          <a href="/">
+          <a href="/Health-Monitoring-Devices">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Health Monitoring Devices
           </a>
-          <a href="/">
+          <a href="/Location-Monitoring-Services">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Location Monitoring Services
           </a>
-          <a href="/">
+          <a href="/Industrial-Devices">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Industrial Devices
           </a>
-          <a href="/">
+          <a href="/Streaming-Platform-OTT">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Streaming Platform OTT
           </a>
-          <a href="/">
+          <a href="/Cryptocurrency">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Cryptocurrency
           </a>
-          <a href="/">
+          <a href="/Digital-Image-Processing">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Digital Image Processing
           </a>
-          <a href="/">
+          <a href="/Neural-Networks">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
@@ -319,98 +319,98 @@ class informationcommunicationtechnologypage extends Component {
       <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
        
         <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
-          <a href="/">
+          <a href="/4G-LTE-A">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>4G/LTE-A
           </a>
-          <a href="/">
+          <a href="/Virtual-Augmented-Reality">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Virtual/Augmented Reality
           </a>
-          <a href="/">
+          <a href="/ArtificialIntelligence-MachineLearning-DeepLearning">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Artificial Intelligence, Machine Learning, Deep &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Learning
           </a>
-          <a href="/">
+          <a href="/Wearable-Health-Monitor">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Wearable Health Monitor
           </a>
-          <a href="/">
+          <a href="/Vehicle-Security-&-Infotainment">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Vehicle Security and Infotainment
           </a>
-          <a href="/">
+          <a href="/UAV-MAV-Drone">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>UAV/MAV/Drone
           </a>
-          <a href="/">
+          <a href="/Optical-Networks">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Optical Networks
           </a>
-          <a href="/">
+          <a href="/Qi-Standards-WirelessCharging">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Qi Standards (Wireless Charging)
           </a>
-          <a href="/">
+          <a href="/Camera-and-Surveillance">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Camera and Surveillance
           </a>
-          <a href="/">
+          <a href="/hearing-device">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Hearing Devices-Earpods
           </a>
-          <a href="/">
+          <a href="/Gaming-Wagering-Platform">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Gaming/Wagering Platform
           </a>
-          <a href="/">
+          <a href="/Short-Range-Communications-BluetoothNFC">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Short Range Communications - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bluetooth/NFC
           </a>
-          <a href="/">
+          <a href="/Fiber-Communication">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Fiber Communication
           </a>
-          <a href="/">
+          <a href="/Battery-Technology">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
@@ -418,21 +418,21 @@ class informationcommunicationtechnologypage extends Component {
             </span>Battery Technology
           </a>
           
-          <a href="/">
+          <a href="/Mobile-Camera">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Mobile Camera
           </a>
-          <a href="/">
+          <a href="/Multifunction-Printer">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Multifunction Printer
           </a>
-          <a href="/">
+          <a href="/HealthMonitoring-MobileSensor">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
@@ -440,7 +440,7 @@ class informationcommunicationtechnologypage extends Component {
             </span>Health Monitoring Mobile Sensor
           </a>
           
-          <a href="/">
+          <a href="/Rechargeable-Lithium-Ion-Battery">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
@@ -454,21 +454,21 @@ class informationcommunicationtechnologypage extends Component {
        
         <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
           
-          <a href="/">
+          <a href="/smart-Textile">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Smart Textile
           </a>
-          <a href="/">
+          <a href="/Deposition-Technique-PECVD-PEALD">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Deposition Technique-PECVD/PEALD
           </a>
-          <a href="/">
+          <a href="/I-O-Virtualization-KVM">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
@@ -476,77 +476,77 @@ class informationcommunicationtechnologypage extends Component {
             </span>I/O Virtualization-KVM
           </a>
          
-          <a href="/">
+          <a href="/Laser-Lidar">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Laser/Lidar
           </a>
-          <a href="/">
+          <a href="/RF-Power-Delivery-Systems">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>RF Power Delivery Systems
           </a>
-          <a href="/">
+          <a href="/Satellite-Communication">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Satellite Communication
           </a>
-          <a href="/">
+          <a href="/Ethical-Algorithms">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Ethical Algorithms
           </a>
-          <a href="/">
+          <a href="/Smart-Devices">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Smart Devices (Smart TV, Smart-Phone etc.)
           </a>
-          <a href="/">
+          <a href="/Web-Based-Video-Conference">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Web-Based Video Conference
           </a>
-          <a href="/">
+          <a href="/Bone-Conduction-Headphones">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Bone Conduction Headphones
           </a>
-          <a href="/">
+          <a href="/electrically-connecting-flexible-electrodes">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Electrically Connecting Flexible Electrodes
           </a>
-          <a href="/">
+          <a href="/Charing-Box-Functionality-Earpods">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Charing Box Functionality-Earpods
           </a>
-          <a href="/">
+          <a href="/Medical-Imaging">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Medical Imaging
           </a>
-          <a href="/">
+          <a href="/Computer-Applications-OperatingSystems">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>

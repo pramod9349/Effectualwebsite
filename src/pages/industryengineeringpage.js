@@ -41,7 +41,7 @@ class industryengineeringpage extends Component {
       <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
         
         <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
-         <a href="/">
+         <a href="/Automobile-Heavy-Machineries">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
@@ -49,28 +49,28 @@ class industryengineeringpage extends Component {
               
             </span>Automobile/ Heavy Machineries
           </a>
-         <a href="/">
+         <a href="/Thermal-Equipments">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Thermal Equipments
           </a>
-         <a href="/">
+         <a href="/Healthcare-Medical-devices">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Healthcare/Medical devices
           </a>
-         <a href="/">
+         <a href="/Sports-Fitness-Recreation-Equipment-Article">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span> Sports, Fitness, Recreation &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Equipment/Article
           </a>
-          <a href="/">
+          <a href="/Packaging">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
@@ -83,7 +83,7 @@ class industryengineeringpage extends Component {
       <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
         
         <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
-         <a href="/">
+         <a href="/Tire">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
@@ -91,14 +91,14 @@ class industryengineeringpage extends Component {
             </span>
             Tire
           </a>
-         <a href="/">
+         <a href="/Domestic-Appliances">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Domestic Appliances
           </a>
-         <a href="/">
+         <a href="/Materials-and-Metallurgy">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
@@ -106,7 +106,7 @@ class industryengineeringpage extends Component {
             </span>Materials and Metallurgy
           </a>
           
-         <a href="/">
+         <a href="/Filters">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
@@ -114,7 +114,7 @@ class industryengineeringpage extends Component {
             </span>Filters
           </a>
          
-          <a href="/">
+          <a href="/Printing-Machines">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
@@ -128,35 +128,35 @@ class industryengineeringpage extends Component {
        
         <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
          
-         <a href="/">
+         <a href="/Personal-Articles">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Personal Articles
           </a>
-         <a href="/">
+         <a href="/Arms-Ammunition">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Arms & Ammunition
           </a>
-         <a href="/">
+         <a href="/Drone-Aerial-Vehicle">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Drone/Aerial Vehicle
           </a>
-          <a href="/">
+          <a href="/CAD-CAMRobotics-Mechatronics">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>CAD/CAM & Robotics/Mechatronics
           </a>
-          <a href="/">
+          <a href="/Cables">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
@@ -170,14 +170,14 @@ class industryengineeringpage extends Component {
        
         <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
         
-         <a href="/">
+         <a href="/Agriculture">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Agriculture; Forestry; Animal &nbsp;&nbsp;&nbsp;&nbsp;Husbandry; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hunting; Trapping; &nbsp;&nbsp;&nbsp;&nbsp;Fishing
           </a>
-         <a href="/">
+         <a href="/Scientific-Instruments">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
