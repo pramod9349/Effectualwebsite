@@ -2,24 +2,24 @@ import React, { Component } from 'react';
 import Navigation from '../components/navigation'
 import Footer from '../components/footer'
 
-class marketresearchpage extends Component {
+class greenChemistrypage extends Component {
     render() {
         return (
             <div>
                 <Navigation />
-                <div class="relative bg-white overflow-hidden bg-black">
+                <div class="relative bg-white overflow-hidden ">
         <div class=" mx-auto ">
           <div class="relative z-10 pb-8  sm:pb-16 md:pb-20 lg:max-w-2xl lg:w-full ">
             
             <main class="mx-auto max-w-5xl px-4 sm:mt-12 sm:px-6 md:mt-16  lg:px-8 xl:mt-28">
               <div class="sm:text-center lg:text-left">
                 <h1 class="px-20 text-2xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">
-                  <span class="block xl:inline">Market<br />
-                    <span class="block text-red-600 xl:inline">Research</span> </span> 
-                
+                  <span class="block xl:inline">Green  
+                   
+                    <span class="block text-red-600 xl:inline">  Chemistry</span> </span> 
+                 
                 </h1>
-                
-               
+
               </div>
             </main>
           </div>
@@ -28,30 +28,27 @@ class marketresearchpage extends Component {
           <img class="h-56 w-full  sm:h-64 md:h-96 lg:w-full lg:h-full object-contain" src="images/banner-patent.jpg" alt="" />
         </div>
       </div>
-       
+           
+
                         <section class="text-gray-600 px-16 body-font">
                           <div class="container px-5 py-6 mx-auto">
                             <div class="flex flex-wrap w-full mb-20">
-                           
+                              
                               <p class=" w-full leading-relaxed text-gray-500">
-				
-                              Our Market Research and Assessment Service is a continuous process of assisting clients not only with the latest trend in the market but also with a detailed analysis of development of market in past and present. This helps our clients in identifying major competitors in the market and seize upon new market opportunities.
-				<br /><br />
+							 Filing a patent is not enough to get the patent granted. Even after drafting and filing a patent in best possible manner there is a minute chance that the patent will be granted straight away. Once a patent is filed, the patent examiner searches for prior art of a patent and various other irregularities in the patent/filing documents, on the basis of which the Examiner gives a rejection. It is the responsibility of the Applicant to convince the examiner, either with arguments or with necessary amendments in the patent claims during an Office Action Response.
+ </p><p class=" w-full py-6 leading-relaxed text-gray-500">
+Any amendments made during the Office Action responses may create estoppels against the applicant, which may impact the scope of the claims at a later stage. Preparing a good Office Action Response is an art and a good office action response minimizes such an impact on the scope of claims, by clearly pointing out the distinction between the prior art and the invention. Office Action drafting requires a thorough understanding of the law, the invention, and the cited art. At times it also involves discussing the invention and cited art with the examiner during an examiner interview.
+ </p><p class=" w-full py-6 leading-relaxed text-gray-500">
+Effectual Services helps the clients in drafting ready to file office action responses for patents filed across various jurisdictions including US, EP, India, and Australia. Our team of highly skilled techno-legal professionals has extensive experience in not only drafting superior responses, but also in assisting attorneys in negotiating the scope with examiners in examiner interviews, in order to ensure that the finally allowed claim set is not too narrow. We also make sure that any unclaimed subject matter is brought to the clients notice, so that timely amendments are made to the claims to capture broadest possible scope of the patents.
+ </p><p class=" w-full py-6 leading-relaxed text-gray-500">
+For clients who wish to draft responses themselves, we can perform the heavy-lifting tasks including the detailed technical analysis of the references cited by the Examiner and identifying the technical differences between the cited art and the invention, thereby saving Attorney’s time in drafting the Office Action response.
 
-                
-                We at Effectual Services emphasize not only in gathering of data from different sources, but we also provide precise analysis and insights from our research outcome. Our in-depth and comprehensive review of relevant market helps our clients to have a clear picture on particular type of technology with respect to the market i.e. whether the market is ready for entry of the given technology.
-
-                <br /> <br />
-                Market Research plays a crucial role in infringement analysis and in decisions to enforce a patent. Conducting the right type of market research allows companies to determine the right kind of target at the right time in the current market situation and can help them out-license to or sue the most valuable targets in the market. To add value to the patent analysis, we perform the market analysis of the infringing product by performing primary research, including direct customer feedback about the product/services, as well as secondary research, including analyzing trade literature, websites, SEC filing, Manuals, Subscriptions, etc. This helps our client in developing a better understanding of the market share and the exposed revenue of an infringing product. Our team provides a complete spectrum of market research solutions focused towards intellectual property industry.
-
-          
-</p>
-							
+							  </p>
                             </div>
                         
                           </div>
                         </section>
-                      
+                       
                         <div class="relative w-full flex">
                           <div class="rounded-lg w-full grid grid-flow-row sm:grid-flow-row grid-cols-1 sm:grid-cols-4 py-9 divide-y-2 sm:divide-y-0 sm:divide-x-2 divide-gray-100 bg-white-500 z-10">
                             <div class="flex items-center justify-start sm:justify-center py-4 sm:py-6 w-8/12 px-4 sm:w-auto mx-auto sm:mx-0">
@@ -63,7 +60,7 @@ class marketresearchpage extends Component {
                               </div>
                               <div class="absolute bg-black-600 opacity-5 w-11/12 roudned-lg h-64 sm:h-48 top-0 mt-8 mx-auto left-0 right-0" ></div>
                         </div>
-
+                       
 <h2 class="mt-16 font-sans text-3xl font-bold tracking-tight text-center text-black sm:text-4xl sm:leading-none">
   Case Studies     
   </h2> 
@@ -108,10 +105,16 @@ class marketresearchpage extends Component {
   </div>
       <div class="absolute bg-black-600 opacity-5 w-11/12 roudned-lg h-64 sm:h-48 top-0 mt-8 mx-auto left-0 right-0"></div>
 </div>
+
+
+
+
+                
+
                 <Footer />
             </div>
         );
     }
 }
 
-export default marketresearchpage;
+export default greenChemistrypage;

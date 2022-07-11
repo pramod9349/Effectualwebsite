@@ -34,7 +34,7 @@ class industryengineeringpage extends Component {
               Industry Domains       
               </h2> 
 
-<section class="text-gray-600 body-font">
+<section class="text-white body-font text-xl bg-indigo-700">
   <div class="container px-5 py-24 mx-auto">
    
     <div class="flex flex-wrap -m-4">
@@ -46,6 +46,7 @@ class industryengineeringpage extends Component {
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
+              
             </span>Automobile/ Heavy Machineries
           </a>
          <a href="/">
@@ -67,9 +68,15 @@ class industryengineeringpage extends Component {
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
-            </span> Sports, Fitness, Recreation Equipment/Article
+            </span> Sports, Fitness, Recreation &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Equipment/Article
           </a>
-         
+          <a href="/">
+            <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
+              <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
+                <path d="M20 6L9 17l-5-5"></path>
+              </svg>
+            </span> Packaging
+          </a>
           
                   </nav>
       </div>
@@ -106,27 +113,21 @@ class industryengineeringpage extends Component {
               </svg>
             </span>Filters
           </a>
-         <a href="/">
-            <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-              <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                <path d="M20 6L9 17l-5-5"></path>
-              </svg>
-            </span> Packaging
-          </a>
          
-          
-        </nav>
-      </div>
-      <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
-       
-        <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
-         <a href="/">
+          <a href="/">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Printing Machines
           </a>
+          
+        </nav>
+      </div>
+      <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
+       
+        <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
+         
          <a href="/">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
@@ -148,26 +149,33 @@ class industryengineeringpage extends Component {
               </svg>
             </span>Drone/Aerial Vehicle
           </a>
-          
-
-        </nav>
-      </div>
-      <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
-       
-        <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
-         <a href="/">
+          <a href="/">
+            <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
+              <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
+                <path d="M20 6L9 17l-5-5"></path>
+              </svg>
+            </span>CAD/CAM & Robotics/Mechatronics
+          </a>
+          <a href="/">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
             </span>Cables
           </a>
+
+        </nav>
+      </div>
+      <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
+       
+        <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
+        
          <a href="/">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
-            </span>Agriculture; Forestry; Animal Husbandry; Hunting; Trapping; Fishing
+            </span>Agriculture; Forestry; Animal &nbsp;&nbsp;&nbsp;&nbsp;Husbandry; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hunting; Trapping; &nbsp;&nbsp;&nbsp;&nbsp;Fishing
           </a>
          <a href="/">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
@@ -176,14 +184,7 @@ class industryengineeringpage extends Component {
               </svg>
             </span>Scientific Instruments
           </a>
-         <a href="/">
-            <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-              <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                <path d="M20 6L9 17l-5-5"></path>
-              </svg>
-            </span>CAD/CAM & Robotics/Mechatronics
-          </a>
-         
+       
           
         </nav>
       </div>
@@ -195,16 +196,20 @@ class industryengineeringpage extends Component {
 <h2 class="mb-6 py-16 font-sans text-3xl font-bold tracking-tight text-center text-black sm:text-4xl sm:leading-none">
   Service Capabilities       
   </h2> 
-<div class="w-full h-96 " style={{backgroundImage: "url(images/Industry-Engg-1.png)"}}>
-  
-</div>
 
+  <section class="hero container max-w-screen-lg mx-auto pb-10">
+    <img class="mx-auto" src="images/Industry-Engg-1.png" alt="image"></img>
+</section>
+
+<hr></hr>
 <h2 class="mb-6 py-16 font-sans text-3xl font-bold tracking-tight text-center text-black sm:text-4xl sm:leading-none">
   TEAM ACADEMICS     
   </h2> 
-<div class="w-full h-96 bg-center" style={{backgroundImage: "url(images/Industry-Engg-2.png)"}}>
-  
-</div>
+
+  <section class="hero container max-w-screen-lg mx-auto pb-10">
+    <img class="mx-auto" src="images/Industry-Engg-2.png" alt="image"></img>
+</section>
+
 
 <h2 class="mt-16 font-sans text-3xl font-bold tracking-tight text-center text-black sm:text-4xl sm:leading-none">
   Case Studies     
@@ -229,13 +234,6 @@ class industryengineeringpage extends Component {
     </div>
   </div>
 </section>
-
-
-
-
-
-
-
 
 <div class="relative w-full flex">
   <div class="rounded-lg w-full grid grid-flow-row sm:grid-flow-row grid-cols-1 sm:grid-cols-3 py-9 divide-y-2 sm:divide-y-0 sm:divide-x-2 divide-gray-100 bg-white-500 z-10">

@@ -17,8 +17,7 @@ class informationcommunicationtechnologypage extends Component {
                   <span class="block xl:inline">Innovation In <span class="block text-red-600 xl:inline">Information & Communication</span> Technology Industry</span> 
                   
                 </h1>
-                
-               
+              
               </div>
             </main>
           </div>
@@ -28,14 +27,14 @@ class informationcommunicationtechnologypage extends Component {
         </div>
       </div>
            
-
             <h2 class="mb-6 font-sans text-3xl font-bold tracking-tight text-center text-black sm:text-4xl sm:leading-none">
               Industry Domains       
-              </h2> 
+            </h2> 
 
-<section class="text-gray-600 body-font">
+<section class="text-white body-font text-xl bg-opacity-100  bg-indigo-700">
+
   <div class="container px-5 py-24 mx-auto">
-   
+  
     <div class="flex flex-wrap -m-4">
       <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
         
@@ -61,7 +60,7 @@ class informationcommunicationtechnologypage extends Component {
               </svg>
             </span>Entertainment Device
           </a>
-          <br />
+          
           <a href="/">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
@@ -125,7 +124,7 @@ class informationcommunicationtechnologypage extends Component {
               </svg>
             </span>LCD/LED/OLED-Display Devices
           </a>
-          <br />
+          
           <a href="/">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
@@ -201,7 +200,7 @@ class informationcommunicationtechnologypage extends Component {
               </svg>
             </span>MPEG-Video/Audio Codec
           </a>
-          <br />
+          
           <a href="/">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
@@ -265,7 +264,7 @@ class informationcommunicationtechnologypage extends Component {
               </svg>
             </span>Smart Homes
           </a>
-          <br />
+          
           <a href="/">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
@@ -308,7 +307,13 @@ class informationcommunicationtechnologypage extends Component {
               </svg>
             </span>Digital Image Processing
           </a>
-          
+          <a href="/">
+            <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
+              <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
+                <path d="M20 6L9 17l-5-5"></path>
+              </svg>
+            </span>Neural Networks
+          </a>
         </nav>
       </div>
       <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
@@ -333,7 +338,7 @@ class informationcommunicationtechnologypage extends Component {
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
-            </span>Artificial Intelligence, Machine Learning, Deep Learning
+            </span>Artificial Intelligence, Machine Learning, Deep &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Learning
           </a>
           <a href="/">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
@@ -396,7 +401,7 @@ class informationcommunicationtechnologypage extends Component {
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
-            </span>Short Range Communications - Bluetooth/NFC
+            </span>Short Range Communications - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bluetooth/NFC
           </a>
           <a href="/">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
@@ -412,7 +417,7 @@ class informationcommunicationtechnologypage extends Component {
               </svg>
             </span>Battery Technology
           </a>
-          <br />
+          
           <a href="/">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
@@ -434,20 +439,7 @@ class informationcommunicationtechnologypage extends Component {
               </svg>
             </span>Health Monitoring Mobile Sensor
           </a>
-          <a href="/">
-            <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-              <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                <path d="M20 6L9 17l-5-5"></path>
-              </svg>
-            </span>Neural Networks
-          </a>
-         
-
-        </nav>
-      </div>
-      <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
-       
-        <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
+          
           <a href="/">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
@@ -455,6 +447,13 @@ class informationcommunicationtechnologypage extends Component {
               </svg>
             </span>Rechargeable Lithium Ion Battery
           </a>
+
+        </nav>
+      </div>
+      <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
+       
+        <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
+          
           <a href="/">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
@@ -477,7 +476,6 @@ class informationcommunicationtechnologypage extends Component {
             </span>I/O Virtualization-KVM
           </a>
          
-          <br />
           <a href="/">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
@@ -513,7 +511,6 @@ class informationcommunicationtechnologypage extends Component {
               </svg>
             </span>Smart Devices (Smart TV, Smart-Phone etc.)
           </a>
-          <br />
           <a href="/">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
@@ -554,7 +551,7 @@ class informationcommunicationtechnologypage extends Component {
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
-            </span>Computer Software / Virtualization / Mobile Applications / Operating Systems
+            </span>Computer Software / Virtualization / Mobile &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Applications / Operating Systems
           </a>
         </nav>
       </div>
@@ -566,16 +563,21 @@ class informationcommunicationtechnologypage extends Component {
 <h2 class="mb-6 py-16 font-sans text-3xl font-bold tracking-tight text-center text-black sm:text-4xl sm:leading-none">
   Service Capabilities       
   </h2> 
-<div class="w-full h-96 " style={{backgroundImage: "url(images/Industry-ict-1.png)"}}>
-  
-</div>
 
+  <section class="hero container max-w-screen-lg mx-auto pb-10">
+    <img class="mx-auto" src="images/Industry-ict-1.png" alt="image"></img>
+</section>
+
+<hr></hr>
 <h2 class="mb-6 py-16 font-sans text-3xl font-bold tracking-tight text-center text-black sm:text-4xl sm:leading-none">
   TEAM ACADEMICS     
   </h2> 
-<div class="w-full bg-center flex items-center" >
-  <img class="align-center w-full px-72 items-center" src="images/Industry-ict-2.png" alt="industry" />
-</div>
+
+  <section class="hero container max-w-screen-lg mx-auto pb-10">
+    <img class="mx-auto" src="images/Industry-ict-2.png" alt="image"></img>
+</section>
+
+
 
 <h2 class="mt-16 font-sans text-3xl font-bold tracking-tight text-center text-black sm:text-4xl sm:leading-none">
   Case Studies     

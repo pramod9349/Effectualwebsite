@@ -21,7 +21,7 @@ class aboutcsrpage extends Component {
 
 
   <h2 class="mb-6 font-sans py-6 text-3xl font-bold tracking-tight text-center text-black sm:text-4xl sm:leading-none">
-        About CSR    
+        CSR    
         </h2> 
 
 <section class="bg-white dark:bg-gray-800">

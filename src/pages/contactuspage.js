@@ -7,24 +7,24 @@ class contactuspage extends Component {
     render() {
         return (
             <div>
-            <Navigation />
-            <div class="relative bg-gray-200 overflow-hidden">
-            <div class=" mx-auto ">
-              <div class="relative z-10 pb-8  sm:pb-16 md:pb-20 lg:max-w-2xl lg:w-full ">                
-                <main class="mx-auto max-w-5xl px-4 sm:mt-12 sm:px-6 md:mt-16  lg:px-8 xl:mt-28">
-                  <div class="sm:text-center lg:text-left">
-                    <h1 class="px-20 text-2xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">
-                      <span class="block xl:inline">Innovation is global, <br />                        
-                        <span class="block text-red-600 xl:inline">So are we!!</span></span>                      
-                    </h1>
+                <Navigation />
+                <div class="relative bg-gray-200 overflow-hidden">
+                <div class=" mx-auto ">
+                  <div class="relative z-10 pb-8  sm:pb-16 md:pb-20 lg:max-w-2xl lg:w-full ">                
+                    <main class="mx-auto max-w-5xl px-4 sm:mt-12 sm:px-6 md:mt-16  lg:px-8 xl:mt-28">
+                      <div class="sm:text-center lg:text-left">
+                        <h1 class="px-20 text-2xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">
+                          <span class="block xl:inline">Innovation is global, <br />                        
+                            <span class="block text-red-600 xl:inline">So are we!!</span></span>                      
+                        </h1>
+                      </div>
+                    </main>
                   </div>
-                </main>
-              </div>
-            </div>
-            <div class="lg:absolute py-12 lg:inset-y-0 lg:right-20 lg:w-1/3">
-              <img class="h-24 w-full  sm:h-64 md:h-96 lg:w-full lg:h-full object-contain" src="images/banner-contact.png" alt="" />
-            </div>
-          </div>
+                </div>
+                <div class="lg:absolute py-12 lg:inset-y-0 lg:right-20 lg:w-1/3">
+                  <img class="h-24 w-full  sm:h-64 md:h-96 lg:w-full lg:h-full object-contain" src="images/banner-contact.png" alt="" />
+                </div>
+               </div>
 
 
           <section class="text-gray-600 body-font overflow-hidden px-16">

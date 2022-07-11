@@ -57,82 +57,54 @@ class patentspage extends Component {
                         </div>
                        
 
-            <h2 class="mb-6 font-sans text-3xl font-bold tracking-tight text-center text-black sm:text-4xl sm:leading-none">
-              Patent Creation      
-              </h2> 
 
 <section class="text-gray-600 body-font">
-  <div class="container px-5 py-24 mx-auto">
-   
+<div class="pt-4 mb-6 font-sans text-3xl font-bold tracking-tight text-center text-black sm:text-4xl sm:leading-none ">
+              Patent Creation      
+              </div> 
+  <div class="container px-5 py-16 mx-auto  bg-gray-200 dark:bg-gray-900 rounded-lg ...">
     <div class="flex flex-wrap -m-4">
       <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
         
-        <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
-         <a href="/">
-            <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-              <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                <path d="M20 6L9 17l-5-5"></path>
-              </svg>
-            </span>Patent Drafting
-          </a>
-         <a href="/">
-            <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-              <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                <path d="M20 6L9 17l-5-5"></path>
-              </svg>
-            </span>Patent Drawings & Illustrations
-          </a>
+        <nav class="flex flex-col sm:items-start sm:text-left text-center items-left -mb-1 space-y-6">
           
-          
+         <a href="/patent-drafting "class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center    ">
+            <h6 class="text-indigo-500 font-bold ">Patent Drafting</h6>
+          </a>
+              
                   </nav>
       </div>
       <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
         
-        <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
-         <a href="/">
-            <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-              <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                <path d="M20 6L9 17l-5-5"></path>
-              </svg>
-            </span>
-            Office Action Response
+        <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-6">
+         <a href="/office-action-response"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center ">
+           
+            <h6 class="text-indigo-500 font-bold"> Office Action Response</h6>
           </a>
-         <a href="/">
-            <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-              <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                <path d="M20 6L9 17l-5-5"></path>
-              </svg>
-            </span>Design Patent Drawings
-          </a>
-          
+        
+          <a href="/"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center ">
+            <h6 class="text-indigo-500 font-bold">Patent Drawings & Illustrations</h6>
+          </a> 
           
         </nav>
       </div>
       <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
        
-        <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
-         <a href="/">
-            <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-              <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                <path d="M20 6L9 17l-5-5"></path>
-              </svg>
-            </span>Patent Filing
+        <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-6">
+         <a href="/patent-filing-services"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center ">
+            <h6 class="text-indigo-500 font-bold"> Patent Filing</h6>
           </a>
-         
-         
-          
-
+          <a href="/design-patent-drawings"class ="focus:outline-none  shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
+            
+             <h6 class="text-indigo-500 font-bold"> Design Patent Drawings</h6>
+          </a>
         </nav>
       </div>
       <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
        
-        <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
-         <a href="/">
-            <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-              <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                <path d="M20 6L9 17l-5-5"></path>
-              </svg>
-            </span>Defensive Patents & Disclosure
+        <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-6">
+         <a href="/defensive-publication"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center ">
+           <h6 class="text-indigo-500 font-bold"> Defensive Patents & Disclosure</h6>
           </a>
           
           
@@ -144,85 +116,63 @@ class patentspage extends Component {
 </section>
 
 
-<h2 class="mb-6 font-sans text-3xl font-bold tracking-tight text-center text-black sm:text-4xl sm:leading-none">
+<h2 class="pt-4 mb-6 font-sans text-3xl font-bold tracking-tight text-center text-black sm:text-4xl sm:leading-none">
 Indian Patent Services   
   </h2> 
 
 
 <section class="text-gray-600 body-font">
-  <div class="container px-5 py-24 mx-auto">
+  <div class="container px-5 py-16 mx-auto bg-gray-200 dark:bg-gray-900 rounded-lg ...">
    
     <div class="flex flex-wrap -m-4">
       <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
         
-        <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
-         <a href="/">
-            <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-              <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                <path d="M20 6L9 17l-5-5"></path>
-              </svg>
-            </span>Indian Patent Application Drafting
+        <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-6">
+         <a href="/indian-patent-application-drafting"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
+           <h6 class="text-indigo-500 font-bold"> Indian Patent Application Drafting</h6>
           </a>
-         <a href="/">
-            <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-              <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                <path d="M20 6L9 17l-5-5"></path>
-              </svg>
-            </span>Opposition Searches
-          </a>
+         
           
           
                   </nav>
       </div>
       <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
         
-        <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
-         <a href="/">
-            <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-              <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                <path d="M20 6L9 17l-5-5"></path>
-              </svg>
-            </span>
-            Design Patent Drawings
+        <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-6">
+         <a href="/design-patent-application"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center ">
+            
+            <h6 class="text-indigo-500 font-bold">  Design Patent Drawings</h6>
           </a>
-         <a href="/">
-            <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-              <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                <path d="M20 6L9 17l-5-5"></path>
-              </svg>
-            </span>Licensing & Litigation Support
-          </a>
-          
-          
-        </nav>
-      </div>
-      <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
-       
-        <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
-         <a href="/">
-            <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-              <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                <path d="M20 6L9 17l-5-5"></path>
-              </svg>
-            </span>Patent Filing
-          </a>
-         
-         
-          
 
+          <a href="/opposition-searches"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center ">
+           <h6 class="text-indigo-500 font-bold"> Opposition Searches</h6>
+          </a>
+         
+          
+          
         </nav>
       </div>
       <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
        
-        <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
-         <a href="/">
-            <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-              <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                <path d="M20 6L9 17l-5-5"></path>
-              </svg>
-            </span>India Entry Strategy
+        <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-6">
+         <a href="/patent-filing-services"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
+            
+            <h6 class="text-indigo-500 font-bold">Patent Filing</h6>
           </a>
-          
+          <a href="/licensing-litigation-support"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center ">
+           
+           <h6 class="text-indigo-500 font-bold">  Licensing & Litigation Support</h6>
+          </a>
+         
+        </nav>
+      </div>
+      <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
+       
+        <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-6">
+         <a href="/india-entry-strategy"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
+           <h6 class="text-indigo-500 font-bold">India Entry Strategy</h6>
+          </a>
+         
           
         </nav>
       </div>
@@ -233,31 +183,23 @@ Indian Patent Services
 
 
 
-<h2 class="mb-6 font-sans text-3xl font-bold tracking-tight text-center text-black sm:text-4xl sm:leading-none">
+<h2 class="pt-4 mb-6 font-sans text-3xl font-bold tracking-tight text-center text-black sm:text-4xl sm:leading-none">
   Patent Management  
     </h2> 
   
 
   <section class="text-gray-600 body-font">
-    <div class="container px-5 py-24 mx-auto">
+    <div class="container px-5 py-16 mx-auto bg-gray-200 dark:bg-gray-900 rounded-lg ...">
      
       <div class="flex flex-wrap -m-4">
         <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
           
-          <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
-           <a href="/">
-              <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                  <path d="M20 6L9 17l-5-5"></path>
-                </svg>
-              </span>Patent Proofreading
-            </a>
-           <a href="/">
-              <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                  <path d="M20 6L9 17l-5-5"></path>
-                </svg>
-              </span>Patent Translations
+          <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-6">
+           <a href="/patent-proofreading"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
+              <h6 class="text-indigo-500 font-bold">Patent Proofreading</h6>
+                          </a>
+           <a href="/patent-translations"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
+              <h6 class="text-indigo-500 font-bold">Patent Translations</h6>
             </a>
             
             
@@ -265,21 +207,13 @@ Indian Patent Services
         </div>
         <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
           
-          <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
-           <a href="/">
-              <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                  <path d="M20 6L9 17l-5-5"></path>
-                </svg>
-              </span>
-              Remote Patent Docketing
+          <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-6">
+           <a href="/remote-patent-docketing"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
+             
+              <h6 class="text-indigo-500 font-bold">Remote Patent Docketing</h6>
             </a>
-           <a href="/">
-              <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                  <path d="M20 6L9 17l-5-5"></path>
-                </svg>
-              </span>PTA Calculations
+           <a href="/pta-calculations"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
+              <h6 class="text-indigo-500 font-bold">PTA Calculations</h6>
             </a>
             
             
@@ -287,39 +221,22 @@ Indian Patent Services
         </div>
         <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
          
-          <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
-           <a href="/">
-              <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                  <path d="M20 6L9 17l-5-5"></path>
-                </svg>
-              </span>IDS Management
+          <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-6">
+           <a href="/ids-management"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center ">
+             <h6 class="text-indigo-500 font-bold">IDS Management</h6>
             </a>
-           <a href="/">
-              <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                  <path d="M20 6L9 17l-5-5"></path>
-                </svg>
-              </span>File History Analysis
+           <a href="/file-history-analysis"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center ">
+             <h6 class="text-indigo-500 font-bold">File History Analysis</h6>
             </a>
            
-           
-            
-  
           </nav>
         </div>
         <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
          
-          <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
-           <a href="/">
-              <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                  <path d="M20 6L9 17l-5-5"></path>
-                </svg>
-              </span>Data Verification
+          <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-6">
+           <a href="/data-verification"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
+            <h6 class="text-indigo-500 font-bold">Data Verification</h6>
             </a>
-            
-            
           </nav>
         </div>
       </div>
@@ -330,38 +247,26 @@ Indian Patent Services
 
 
 
-  <h2 class="mb-6 font-sans text-3xl font-bold tracking-tight text-center text-black sm:text-4xl sm:leading-none">
+  <h2 class="pt-4 mb-6 font-sans text-3xl font-bold tracking-tight text-center text-black sm:text-4xl sm:leading-none">
     Patent Searches 
       </h2> 
     
   
     <section class="text-gray-600 body-font">
-      <div class="container px-5 py-24 mx-auto">
+      <div class="container px-5 py-16 mx-auto bg-gray-200 dark:bg-gray-900 rounded-lg ...">
        
         <div class="flex flex-wrap -m-4">
           <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
             
-            <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
-             <a href="/">
-                <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-                  <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                    <path d="M20 6L9 17l-5-5"></path>
-                  </svg>
-                </span>Knock Out Search
+            <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-6">
+             <a href="/knockout-search"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center ">
+               <h6 class="text-indigo-500 font-bold">Knock Out Search</h6>
               </a>
-             <a href="/">
-                <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-                  <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                    <path d="M20 6L9 17l-5-5"></path>
-                  </svg>
-                </span>Design Search
+             <a href="/design-search"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center ">
+              <h6 class="text-indigo-500 font-bold">Design Search</h6>
               </a>
-             <a href="/">
-                <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-                  <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                    <path d="M20 6L9 17l-5-5"></path>
-                  </svg>
-                </span>Asian Language Searches
+             <a href="/asian-language-searches"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
+                <h6 class="text-indigo-500 font-bold">Asian Language Searches</h6>
               </a>
               
               
@@ -369,27 +274,15 @@ Indian Patent Services
           </div>
           <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
             
-            <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
-             <a href="/">
-                <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-                  <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                    <path d="M20 6L9 17l-5-5"></path>
-                  </svg>
-                </span>Patentability Search
+            <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-6">
+             <a href="/patentability-search"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
+                <h6 class="text-indigo-500 font-bold">Patentability Search</h6>
               </a>
-             <a href="/">
-                <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-                  <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                    <path d="M20 6L9 17l-5-5"></path>
-                  </svg>
-                </span>State Of The Art Search
+             <a href="/state-of-art-search"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
+                <h6 class="text-indigo-500 font-bold">State Of The Art Search</h6>
               </a>
-             <a href="/">
-                <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-                  <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                    <path d="M20 6L9 17l-5-5"></path>
-                  </svg>
-                </span>Patent Landscape
+             <a href="/patent-landscape"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
+                <h6 class="text-indigo-500 font-bold">Patent Landscape</h6>
               </a>
               
               
@@ -397,27 +290,15 @@ Indian Patent Services
           </div>
           <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
            
-            <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
-             <a href="/">
-                <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-                  <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                    <path d="M20 6L9 17l-5-5"></path>
-                  </svg>
-                </span>Accelerated Examination Search
+            <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-6">
+             <a href="/accelarated-examination-search"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
+                <h6 class="text-indigo-500 font-bold">Accelerated Examination Search</h6>
               </a>
-             <a href="/">
-                <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-                  <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                    <path d="M20 6L9 17l-5-5"></path>
-                  </svg>
-                </span>Freedom To Operate Search
+             <a href="/freedom-to-operate-search"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
+                <h6 class="text-indigo-500 font-bold">Freedom To Operate Search</h6>
               </a>
-             <a href="/">
-                <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-                  <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                    <path d="M20 6L9 17l-5-5"></path>
-                  </svg>
-                </span>State Of The Art Search
+             <a href="/state-of-art-search"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center ">
+                <h6 class="text-indigo-500 font-bold">State Of The Art Search</h6>
               </a>
              
              
@@ -427,27 +308,15 @@ Indian Patent Services
           </div>
           <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
            
-            <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
-             <a href="/">
-                <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-                  <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                    <path d="M20 6L9 17l-5-5"></path>
-                  </svg>
-                </span>Patent Validating Search
+            <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-6">
+             <a href="/patentability-search"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center ">
+                <h6 class="text-indigo-500 font-bold">Patent Validating Search</h6>
               </a>
-             <a href="/">
-                <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-                  <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                    <path d="M20 6L9 17l-5-5"></path>
-                  </svg>
-                </span>Bio-Sequence Search
+             <a href="/bio-sequence-search"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center ">
+                <h6 class="text-indigo-500 font-bold">Bio-Sequence Search</h6>
               </a>
-             <a href="/">
-                <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-                  <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                    <path d="M20 6L9 17l-5-5"></path>
-                  </svg>
-                </span>Chemical Structure Search
+             <a href="/chemical-structure-search"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
+                <h6 class="text-indigo-500 font-bold">Chemical Structure Search</h6>
               </a>
               
               
@@ -460,32 +329,22 @@ Indian Patent Services
    
        
 
-    <h2 class="mb-6 font-sans text-3xl font-bold tracking-tight text-center text-black sm:text-4xl sm:leading-none">
+    <h2 class="pt-4 mb-6 font-sans text-3xl font-bold tracking-tight text-center text-black sm:text-4xl sm:leading-none">
       Patent Litigation
         </h2> 
       
 
       <section class="text-gray-600 body-font">
-        <div class="container px-5 py-24 mx-auto">
+        <div class="container px-5 py-16 mx-auto bg-gray-200 dark:bg-gray-900 rounded-lg ...">
          
           <div class="flex flex-wrap -m-4">
             <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
               
-              <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
-               <a href="/">
-                  <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-                    <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                      <path d="M20 6L9 17l-5-5"></path>
-                    </svg>
-                  </span>Pre-Litigation Assessment
-                </a>
-               <a href="/">
-                  <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-                    <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                      <path d="M20 6L9 17l-5-5"></path>
-                    </svg>
-                  </span>Deposition Summary
-                </a>
+              <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-6">
+               <a href="/pre-litigation-assessment"class ="focus:outline-none border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center ">
+                  <h6 class="text-indigo-500 font-bold">Pre-Litigation Assessment</h6> 
+                                 </a>
+               
                 
                 
                 
@@ -493,58 +352,37 @@ Indian Patent Services
             </div>
             <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
               
-              <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
-               <a href="/">
-                  <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-                    <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                      <path d="M20 6L9 17l-5-5"></path>
-                    </svg>
-                  </span>Infringement Contentions
+              <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-6">
+               <a href="/infringement-contentions"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
+                  <h6 class="text-indigo-500 font-bold">Infringement Contentions</h6> 
                 </a>
-               <a href="/">
-                  <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-                    <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                      <path d="M20 6L9 17l-5-5"></path>
-                    </svg>
-                  </span>Rule 11 / 337 Investigation Support
+              
+                <a href="/"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center ">
+                  <h6 class="text-indigo-500 font-bold">Deposition Summary</h6> 
                 </a>
-               
                 
                 
               </nav>
             </div>
             <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
              
-              <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
-               <a href="/">
-                  <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-                    <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                      <path d="M20 6L9 17l-5-5"></path>
-                    </svg>
-                  </span>Product Testing And Code Review
+              <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-6">
+               <a href="/product-testing-code-review"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
+                  <h6 class="text-indigo-500 font-bold">Product Testing And Code Review</h6>
                 </a>
                
-               
-               
-               
-                
+                <a href="/rule-11-337-investigation-support"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
+                  <h6 class="text-indigo-500 font-bold">Rule 11/337 Investigation Support</h6>
+                </a>
       
               </nav>
             </div>
             <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
              
-              <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
-               <a href="/">
-                  <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-                    <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                      <path d="M20 6L9 17l-5-5"></path>
-                    </svg>
-                  </span>Prior Art Search
+              <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-6">
+               <a href="/prior-art-search"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
+                  <h6 class="text-indigo-500 font-bold">Prior Art Search</h6>
                 </a>
-                
-                
-                
-                
               </nav>
             </div>
           </div>
@@ -553,39 +391,23 @@ Indian Patent Services
       </section>
 
 
-      <h2 class="mb-6 font-sans text-3xl font-bold tracking-tight text-center text-black sm:text-4xl sm:leading-none">
+      <h2 class="pt-4 mb-6 font-sans text-3xl font-bold tracking-tight text-center text-black sm:text-4xl sm:leading-none">
         Patent Licensing
           </h2> 
         
 
         <section class="text-gray-600 body-font">
-          <div class="container px-5 py-24 mx-auto">
-           
+          <div class="container px-5 py-16 mx-auto bg-gray-200 dark:bg-gray-900 rounded-lg ...">
             <div class="flex flex-wrap -m-4">
               <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
+                <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-6">
+                 <a href="/eou-chart"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center ">
+                    <h6 class="text-indigo-500 font-bold">EoU Chart</h6>
+                  </a>
+                 <a href="/bucketing-and-ranking"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center ">
+                   <h6 class="text-indigo-500 font-bold">Bucketing And Ranking</h6>
+                  </a>
                 
-                <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
-                 <a href="/">
-                    <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-                      <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                        <path d="M20 6L9 17l-5-5"></path>
-                      </svg>
-                    </span>EoU Chart
-                  </a>
-                 <a href="/">
-                    <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-                      <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                        <path d="M20 6L9 17l-5-5"></path>
-                      </svg>
-                    </span>Bucketing And Ranking
-                  </a>
-                 <a href="/">
-                    <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-                      <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                        <path d="M20 6L9 17l-5-5"></path>
-                      </svg>
-                    </span>Buyer Identification
-                  </a>
                   
                   
                   
@@ -594,91 +416,53 @@ Indian Patent Services
               </div>
               <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
                 
-                <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
-                 <a href="/">
-                    <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-                      <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                        <path d="M20 6L9 17l-5-5"></path>
-                      </svg>
-                    </span>Infringement Search
+                <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-6">
+                 <a href="/infringement-search"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
+                    <h6 class="text-indigo-500 font-bold">Infringement Search</h6>
                   </a>
-                 <a href="/">
-                    <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-                      <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                        <path d="M20 6L9 17l-5-5"></path>
-                      </svg>
-                    </span>IP Due Diligence
+                 <a href="/patent-due-diligence"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center ">
+                    <h6 class="text-indigo-500 font-bold">IP Due Diligence</h6>
                   </a>
-                 <a href="/">
-                    <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-                      <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                        <path d="M20 6L9 17l-5-5"></path>
-                      </svg>
-                    </span>Patent Valuation
+                  <a href="/buyer-identification"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center ">
+                    <h6 class="text-indigo-500 font-bold">Buyer Identification</h6>
                   </a>
-                 
-                  
-                  
+                
                 </nav>
               </div>
               <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
                
-                <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
-                 <a href="/">
-                    <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-                      <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                        <path d="M20 6L9 17l-5-5"></path>
-                      </svg>
-                    </span>Patent Mining
+                <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-6">
+                 <a href="/patent-mining"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center ">
+                    <h6 class="text-indigo-500 font-bold">Patent Mining</h6>
                   </a>
-                 <a href="/">
-                    <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-                      <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                        <path d="M20 6L9 17l-5-5"></path>
-                      </svg>
-                    </span>Market Research
+                 <a href="/market-research"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
+                    <h6 class="text-indigo-500 font-bold">Market Research</h6>
                   </a>
-                 
-                 
-                 
-                 
-                  
-        
+                  <a href="/"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center ">
+                   <h6 class="text-indigo-500 font-bold">Patent Valuation</h6>
+                  </a>
                 </nav>
               </div>
               <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
                
-                <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-2.5">
-                 <a href="/">
-                    <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-                      <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                        <path d="M20 6L9 17l-5-5"></path>
-                      </svg>
-                    </span>Portfolio Vetting
+                <nav class="flex flex-col sm:items-start sm:text-left text-center items-center -mb-1 space-y-6">
+                 <a href="/portfolio-analysis"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
+                    <h6 class="text-indigo-500 font-bold">Portfolio Vetting</h6>
                   </a>
-                 <a href="/">
-                    <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
-                      <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
-                        <path d="M20 6L9 17l-5-5"></path>
-                      </svg>
-                    </span>Product Testing And Code Review
+                 <a href="/product-testing-code-review"class ="focus:outline-none   shadow hover:shadow-xl border border-gray-500 dark:border-gray-700 h-8 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center ">
+                    <h6 class="text-indigo-500 font-bold">Product Testing And Code Review</h6>
                   </a>
-                  
-                  
-                  
-                  
                 </nav>
               </div>
             </div>
-            
           </div>
         </section>
        
-<h2 class="mt-16 font-sans text-3xl font-bold tracking-tight text-center text-black sm:text-4xl sm:leading-none">
+<h2 class="pt-6 mb-2 font-sans text-3xl font-bold tracking-tight text-center text-black sm:text-4xl sm:leading-none">
   Case Studies     
   </h2> 
 <section class="text-gray-600 body-font">
-  <div class="container px-5 py-24 mx-auto">
+  <div class="container px-5 py-12 mx-auto ">
     <div class="flex flex-wrap -mx-4 -mb-10 text-center">
       <div class="sm:w-1/2 mb-10 px-4">
         <div class="rounded-lg h-64 overflow-hidden">

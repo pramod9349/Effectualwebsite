@@ -93,38 +93,38 @@ function Index() {
                                     {/* <p className="font-bold text-gray-800 text-sm text-center">Chief Executive Officer</p> */}
                              <div className="pb-1">       
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Patent Drafting</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/patent-drafting">Patent Drafting</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Office Action Response</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/office-action-response">Office Action Response</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Patent Filing</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/patent-filing-services">Patent Filing</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Formal Patent Drawings</span>
+                    <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/formal-patent-drawings-illustrations">Formal Patent Drawings</a></span>
                     </div>
                     </div>
 
 
 <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Design Patent Drawings</span>
+                    <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/design-patent-drawings">Design Patent Drawings</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Defensive Publication</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/defensive-publication">Defensive Publication</a></span>
                     </div>
 </div>
                                     <div className="w-full flex justify-center pt-5 pb-5">
@@ -192,38 +192,39 @@ function Index() {
                                                                         {/* <p className="font-bold text-gray-800 text-sm text-center">Chief Executive Officer</p> */}
                              <div className="pb-1">       
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Knockout Search</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/knockout-search">Knockout Search</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Patentability Search</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/patentability-search">Patentability Search</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Accelarated Examination Search</span>
+                    <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/accelarated-examination-search">Accelarated Examination Search</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Patent Invalidation Search</span>
+                    <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/patent-invalidation-search">Patent Invalidation Search</a></span>
                     </div>
                     </div>
 
 
 <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Freedom to Operate Search</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/freedom-to-operate-search">Freedom to Operate Search</a></span>
+                    
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Design Search</span>
+                    <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/design-search">Design Search</a></span>
                     </div>
 </div>
                                     <div className="w-full flex justify-center pt-5 pb-5">
@@ -259,38 +260,38 @@ function Index() {
                                                                         {/* <p className="font-bold text-gray-800 text-sm text-center">Chief Executive Officer</p> */}
                              <div className="pb-1">       
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Pre-litigation Assessment</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/pre-litigation-assessment">Pre-litigation Assessment</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Rule 11/337 Investigation</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/rule-11-337-investigation-support">Rule 11/337 Investigation</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Infringement Contentions</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/infringement-contentions">Infringement Contentions</a></span> 
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Prior Art Search</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/prior-art-search">Prior Art Search</a></span> 
                     </div>
                     </div>
 
 
 <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Product Testing & Code Review</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/product-testing-code-review">Product Testing & Code Review</a></span> 
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Deposition Summary</span>
+                    <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/deposition-summary">Deposition Summary</a></span>
                     </div>
 </div>
                                     <div className="w-full flex justify-center pt-5 pb-5">
@@ -392,38 +393,39 @@ function Index() {
                                                                         {/* <p className="font-bold text-gray-800 text-sm text-center">Chief Executive Officer</p> */}
                              <div className="pb-1">       
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">EOU Chart</span>
+                        
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/eou-chart">EOU Chart</a></span> 
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Infringement Search</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/infringement-search">Infringement Search</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Patent Mining</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/patent-mining">Patent Mining</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Bucketing & Ranking</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/bucketing-and-ranking">Bucketing & Ranking</a></span>
                     </div>
                     </div>
 
 
 <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">IP Due Diligence</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/patent-due-diligence">IP Due Diligence</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Buyer Identification</span>
+                   <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/buyer-identification">Buyer Identification</a></span>
                     </div>
 </div>
                                     <div className="w-full flex justify-center pt-5 pb-5">
@@ -485,38 +487,38 @@ function Index() {
                                                                         {/* <p className="font-bold text-gray-800 text-sm text-center">Chief Executive Officer</p> */}
                              <div className="pb-1">       
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Trademark Availability Search</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/trademark-availability-search">Trademark Availability Search</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Trademark Watch Services</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/trademark-watch-services">Trademark Watch Services</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Infringement Search</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/infringements-search">Infringement Search</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Market Research</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/market-research">Market Research</a></span>
                     </div>
                     </div>
 
 
 <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">100+ Jurisdictions</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/jurisdictions-search">100+ Jurisdictions</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Industry's top databases</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/industry-top-databases">Industry's top databases</a></span>
                     </div>
 </div>
                                     <div className="w-full flex justify-center pt-5 pb-5">
@@ -584,7 +586,6 @@ function Index() {
 <g>
 </g>
 </svg>
-
                                     </div>
                                 </div>
                                 <div className="px-6 mt-8">
@@ -592,38 +593,38 @@ function Index() {
                                                                         {/* <p className="font-bold text-gray-800 text-sm text-center">Chief Executive Officer</p> */}
                              <div className="pb-1">       
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Patent Application Drafting</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/indian-patent-application-drafting">Patent Application Drafting</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Design Patent Drawings</span>
+                     <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/design-patent-application">Design Patent Drawings</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Patent Filing Services</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/patent-filing-services">Patent Filing Services</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Opposition Searches</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/opposition-searches">Opposition Searches</a></span>
                     </div>
                     </div>
 
 
 <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Licensing & Litigation</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/licensing-litigation-support">Licensing & Litigation</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">India Entry Strategy</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/india-entry-strategy">India Entry Strategy</a></span>
                     </div>
 </div>
                                     <div className="w-full flex justify-center pt-5 pb-5">
@@ -722,38 +723,39 @@ function Index() {
                                                                         {/* <p className="font-bold text-gray-800 text-sm text-center">Chief Executive Officer</p> */}
                              <div className="pb-1">       
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Patent Proofreading</span>
+
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/patent-proofreading">Patent Proofreading</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Remote Patent Docketing</span>
+                    <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/remote-patent-docketing">Remote Patent Docketing</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">IDS Management</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/ids-management">IDS Management</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Patent Translations</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/patent-translations">Patent Translations</a></span>
                     </div>
                     </div>
 
 
 <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">PTA Calculations</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/pta-calculations">PTA Calculations</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Data Verification</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/data-verification">Data Verification</a></span>
                     </div>
 </div>
                                     <div className="w-full flex justify-center pt-5 pb-5">
@@ -848,38 +850,38 @@ function Index() {
                                                                         {/* <p className="font-bold text-gray-800 text-sm text-center">Chief Executive Officer</p> */}
                              <div className="pb-1">       
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Data Verification</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/management-datavarification">Data Verification</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Certified Copies</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/management-certifiescopies">Certified Copies</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Registration & Maintenance</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/registration-management">Registration & Maintenance</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Trademark Docketing</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/trademark-docketing">Trademark Docketing</a></span>
                     </div>
                     </div>
 
 
 <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Filing Package Preparations</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/filing-package-preparation">Filing Package Preparations</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Title Chain Verification</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/title-chain-varification">Title Chain Verification</a></span>
                     </div>
 </div>
                                     <div className="w-full flex justify-center pt-5 pb-5">
@@ -903,38 +905,38 @@ function Index() {
                                                                         {/* <p className="font-bold text-gray-800 text-sm text-center">Chief Executive Officer</p> */}
                              <div className="pb-1">       
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Registration & Renewal</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/trademark-registration-renewal">Registration & Renewal</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Trademark Opposition</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/trademark-oppositions">Trademark Opposition</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Trademark Prosecution</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/trademark-procecution">Trademark Prosecution</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Comprehensive E-filings</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/comprehensive-E-filings">Comprehensive E-filings</a></span>
                     </div>
                     </div>
 
 
 <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Opposition Proceedings</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/opposition-proceedings">Opposition Proceedings</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Publication / Advertisement</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/publication-advertisement">Publication / Advertisement</a></span>
                     </div>
 </div>
                                     <div className="w-full flex justify-center pt-5 pb-5">
@@ -1014,38 +1016,38 @@ function Index() {
                                                                         {/* <p className="font-bold text-gray-800 text-sm text-center">Chief Executive Officer</p> */}
                              <div className="pb-1">       
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Scouting Solutions</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/scounting-solution">Scouting Solutions</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Product Analysis</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/product-analysis">Product Analysis</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Innovation Indicators</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/innovation-indicators">Innovation Indicators</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Product Launch Updates</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/project-launch-update">Product Launch Updates</a></span>
                     </div>
                     </div>
 
 
 <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Market Rumors Update</span>
+                       <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/market-umors-update">Market Rumors Update</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Cross Innovation Support</span>
+                       <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/cross-innovation-support">Cross Innovation Support</a></span>
                     </div>
 </div>
                                     <div className="w-full flex justify-center pt-5 pb-5">
@@ -1127,38 +1129,38 @@ function Index() {
                                                                         {/* <p className="font-bold text-gray-800 text-sm text-center">Chief Executive Officer</p> */}
                              <div className="pb-1">       
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Competitor Mapping</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/competitor-mapping">Competitor Mapping</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Domain Specific Research</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/domain-specific-esearch">Domain Specific Research</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Whitespace Analysis</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/whitespace-analysis">Whitespace Analysis</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">IP Risk Assessment</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/ip-risk-assessment">IP Risk Assessment</a></span>
                     </div>
                     </div>
 
 
 <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Assignee Specific Analysis</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/assignee-Specific-analysis">Assignee Specific Analysis</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Acquisition Opportunities</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/acquisition-opportunities">Acquisition Opportunities</a></span>
                     </div>
 </div>
                                     <div className="w-full flex justify-center pt-5 pb-5">
@@ -1182,38 +1184,41 @@ function Index() {
                                                                        {/* <p className="font-bold text-gray-800 text-sm text-center">Chief Executive Officer</p> */}
                              <div className="pb-1">       
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Portfolio Analysis</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/portfolio-analysis">Portfolio Analysis</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Partner Scouting</span>
+            
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/partner-scounting">Partner Scouting</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Technology Scouting</span>
+
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/technology-scouting">Technology Scouting</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Newsletters</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/newsletters">Newsletters</a></span>
                     </div>
                     </div>
 
 
 <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Scientific literature</span>
+
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/scientific-literature">Scientific literature</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Product analysis</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/product-analysis">Product analysis</a></span>
                     </div>
 </div>
                                     <div className="w-full flex justify-center pt-5 pb-5">
@@ -1291,38 +1296,38 @@ function Index() {
                                                                         {/* <p className="font-bold text-gray-800 text-sm text-center">Chief Executive Officer</p> */}
                              <div className="pb-1">       
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">SWOT Analysis</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/SWOT-Analysis">SWOT Analysis</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Domain of Interest</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/domain-of-Interest">Domain of Interest</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Discover Startups</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/discover-startups">Discover Startups</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Universities & SMEs</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/universities-SMEs">Universities & SMEs</a></span>
                     </div>
                     </div>
 
 
 <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Supply Chain Evaluation</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/supply-chain-evaluation">Supply Chain Evaluation</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Production Information</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/production-information">Production Information</a></span>
                     </div>
 </div>
                                     <div className="w-full flex justify-center pt-5 pb-5">
@@ -1371,38 +1376,39 @@ function Index() {
                                                                         {/* <p className="font-bold text-gray-800 text-sm text-center">Chief Executive Officer</p> */}
                              <div className="pb-1">       
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Regulatory Checks</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/regulatory-checks">Regulatory Checks</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Iterative Surveys</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/iteratives-surveys">Iterative Surveys</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Conference Tracking</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/conference-tracking">Conference Tracking</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Scientific Literature</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/scientific-literature">Scientific Literature</a></span>
                     </div>
                     </div>
 
 
 <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Technology Transfer</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/technology-transfer">Technology Transfer</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">R&D Governance</span>
+
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/Research-Governance">R&D Governance</a></span>
                     </div>
 </div>
                                     <div className="w-full flex justify-center pt-5 pb-5">
@@ -1469,38 +1475,38 @@ function Index() {
                                                                         {/* <p className="font-bold text-gray-800 text-sm text-center">Chief Executive Officer</p> */}
                              <div className="pb-1">       
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Taxonomy Analysis</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/taxonomy-analysis">Taxonomy Analysis</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Encompassing Taxonomy</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/encompassing-taxonomy">Encompassing Taxonomy</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Corelation Analysis</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/corelation-analysis">Corelation Analysis</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Trend Analysis</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/trend-analysis">Trend Analysis</a></span>
                     </div>
                     </div>
 
 
 <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Historical Data</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/historical-data">Historical Data</a></span>
                     </div>
                     </div>
 
                     <div className="pb-1">
                     <div tabindex="0" aria-label="gray border badge" class="focus:outline-none border border-gray-300 dark:border-gray-700 h-6 w-full mb-4 md:mb-0 rounded-full flex items-center justify-center">
-                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal">Scientific Literature</span>
+                        <span class="text-xs text-gray-700 dark:text-gray-100 font-normal hover:text-sky-700 ..."><a href="/scientific-literatures">Scientific Literature</a></span>
                     </div>
 </div>
                                     <div className="w-full flex justify-center pt-5 pb-5">

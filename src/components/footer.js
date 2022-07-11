@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 // import Contactmodel from './contactmodel'
 import Swal from 'sweetalert2'
+import indianpatentapplicationdraftingpage from '../pages/indianpatentapplicationdraftingpage';
 
 class footer extends Component {
 
@@ -21,9 +22,8 @@ class footer extends Component {
         Swal.fire({
           
           html:
-            ' <section class="text-gray-600 body-font transition duration-150 ease-in-out z-500" >' +
-            '<div class="container">' +
-         '<div class="bg-gray-100">' +
+            ' <section class="text-gray-600 body-font transition duration-150 ease-in-out z-500 bg-gray-200 rounded-lg" >' +
+            '<div class="container mt-12 mb-8">' +
         '<div class="max-w-7xl mx-auto ">' +
           '<div class="relative bg-white shadow-xl">' +
             '<div class="grid grid-cols-1 lg:grid-cols-3">' +              
@@ -158,7 +158,8 @@ class footer extends Component {
           showCancelButton: false,
           showConfirmButton:false,
           focusConfirm: false,
-          width: '100%',
+          width: '80%',
+          
         })
 
       }

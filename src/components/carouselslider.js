@@ -55,6 +55,7 @@ export default function Carouselslider() {
     
     className="swiper mySwiper">
 
+
 <SwiperSlide className="swiper-slide">
 <div class="w-full bg-center bg-cover h-96" style={{backgroundImage: "url(images/banner.jpg)"}}>
             <div class="flex flex-direction:row-reverse; items-center justify-end w-full h-full bg-gray-900 bg-opacity-10">
@@ -65,9 +66,23 @@ export default function Carouselslider() {
             </div>
         </div>
 </SwiperSlide>
+
+{/* <SwiperSlide className="swiper-slide">
+
+<div class=" dark:bg-gray-800 bg-gray-100 h-auto w-full px-4 sm:px-10 md:px-6 lg:px-10 xl:px-20 ">
+<div class="flex flex-col md:flex md:flex-row justify-center items-center w-auto ">
+
+
+  <img src="images/SocialBanner.png" alt="image" />
+
+</div>
+</div>
+
+</SwiperSlide> */}
+
         <SwiperSlide className="swiper-slide">
 
-        <div class="dark:bg-gray-800 bg-gray-100 h-auto w-full px-4 sm:px-10 md:px-6 lg:px-10 xl:px-20 ">
+        <div class=" dark:bg-gray-800 bg-gray-100 h-auto w-full px-4 sm:px-10 md:px-6 lg:px-10 xl:px-20 ">
       <div class="flex flex-col md:flex md:flex-row justify-center items-center">
         <div class="w-full md:w-1/2 order-1 md:order-none">
           <div class="md:w-96">
@@ -77,10 +92,9 @@ export default function Carouselslider() {
             With a clientele spread across 50+ countries, we guide corporations and universities on how to manage and monetize their patent portfolios
             </p>
            
-             
           </div>
         </div>
-        <div class="w-full">
+        <div class="w-auto">
           <img src="logo-explained.png" alt="headphone" />
         </div>
       </div>

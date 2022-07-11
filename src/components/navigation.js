@@ -17,27 +17,27 @@ function Navigation() {
               <ul className="child z-10">
                 <li><a href="who-we-are">Who We Are</a></li>
                 <li><a href="founders-leadership">Founders & Leadership</a></li>
-                <li><a href="about-csr">About CSR</a></li>                
+                <li><a href="about-csr">CSR</a></li>                
               </ul>
             </li>           
             
             <li className="parent"><a href="/" aria-label="About us" title="About us" className="font-bold tracking-wide text-gray-700 transition-colors duration-200 text-lg hover:text-deep-purple-accent-400 underline-offset-auto">Solutions</a>
               <ul className="child z-10">
-                <li className="parent"><a href="/patents">Patents</a>
+                <li className="parent"><a href="/patents">Patents </a>
                   <ul className="child">
                     <li className="parent"><a href="patent-creation">Patent Creation</a>
                 <ul className="child z-10">
                   <li><a href="/patent-drafting">Patent Drafting</a></li>
                   <li><a href="/office-action-response">Office Action Response</a></li>
                   <li><a href="/patent-filing-services">Patent Filing Services</a></li>  
-                  <li><a href="/formal-patent-drawings-illustrations">Formal Patent Drawings / Illustrations</a></li> 
+                  <li><a href="/formal-patent-drawings-illustrations">Formal Patent Drawings / &nbsp;&nbsp;Illustrations</a></li> 
                   <li><a href="/design-patent-drawings">Design Patent Drawings</a></li> 
                   <li><a href="/defensive-publication">Defensive Publication</a></li>                 
                 </ul>
                     </li>
                     <li className="parent"><a href="indian-patent-services">Indian Patent Services</a>
                 <ul className="child z-10">
-                  <li><a href="/indian-patent-application-drafting">Indian Patent Application Drafting</a></li>
+                  <li><a href="/indian-patent-application-drafting">Indian Patent Application &nbsp;&nbsp;&nbsp;Drafting</a></li>
                   <li><a href="/design-patent-application">Design Patent Application</a></li>
                   <li><a href="/opposition-searches">Opposition Searches</a></li>  
                   <li><a href="/licensing-litigation-support">Licensing & Litigation Support</a></li> 
@@ -59,7 +59,7 @@ function Navigation() {
                     <ul className="child z-10">
                   <li><a href="/knockout-search">Knockout Search</a></li>
                   <li><a href="/patentability-search">Patentibility Search</a></li>
-                  <li><a href="/accelarated-examination-search">Accelarated Examination Search</a></li>  
+                  <li><a href="/accelarated-examination-search">Accelarated Examination &nbsp;&nbsp;&nbsp;Search</a></li>  
                   <li><a href="/design-search">Design Search</a></li> 
                   <li><a href="/patent-invalidation-search">Patent Invalidation Search</a></li> 
                   <li><a href="/freedom-to-operate-search">Freedom to Operate Search</a></li>  
@@ -75,9 +75,9 @@ function Navigation() {
                     <ul className="child z-10">
                   <li><a href="/pre-litigation-assessment">Pre-Litigation Assessment</a></li>
                   <li><a href="/infringement-contentions">Infringement Contentions</a></li>
-                  <li><a href="/rule-11-337-investigation-support">Rule 11/337 Investigation Support</a></li>  
+                  <li><a href="/rule-11-337-investigation-support ">Rule 11/337 Investigation &nbsp;&nbsp;&nbsp;Support</a></li>  
                   <li><a href="/prior-art-search">Prior Art Search</a></li> 
-                  <li><a href="/product-testing-code-review">Product Testing & Code Review</a></li>                                  
+                  <li><a href="/product-testing-code-review">Product Testing & Code &nbsp;&nbsp;&nbsp;Review</a></li>                                  
                 </ul>
                     </li> 
                     <li className="parent"><a href="patent-licensing">Patent Licensing</a>

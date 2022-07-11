@@ -15,10 +15,7 @@ class lifesciencespage extends Component {
               <div class="sm:text-center lg:text-left">
                 <h1 class="px-20 text-2xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">
                   <span class="block xl:inline">Tailor-Made Solutions for <span class="block text-red-600 xl:inline">Life Sciences</span> Industry</span> 
-                 
                 </h1>
-                
-               
               </div>
             </main>
           </div>
@@ -33,7 +30,7 @@ class lifesciencespage extends Component {
               Industry Domains       
               </h2> 
 
-<section class="text-gray-600 body-font">
+<section class="text-white body-font bg-indigo-700 text-xl">
   <div class="container px-5 py-24 mx-auto">
    
     <div class="flex flex-wrap -m-4">
@@ -275,8 +272,6 @@ class lifesciencespage extends Component {
               </svg>
             </span>Pharmacogenomics
           </a>
-          
-          
         </nav>
       </div>
       <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
@@ -378,7 +373,7 @@ class lifesciencespage extends Component {
               <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="w-3 h-3" viewBox="0 0 24 24">
                 <path d="M20 6L9 17l-5-5"></path>
               </svg>
-            </span>Molecular Biology (Nucleic Acids and Proteins)
+            </span>Molecular Biology (Nucleic Acids and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proteins)
           </a>
           <a href="/">
             <span class="bg-indigo-100 text-indigo-500 w-4 h-4 mr-2 rounded-full inline-flex items-center justify-center">
@@ -388,7 +383,6 @@ class lifesciencespage extends Component {
             </span>Polymer
           </a>
          
-
         </nav>
       </div>
       <div class="p-4 lg:w-1/4 sm:w-1/2 w-full">
@@ -519,16 +513,26 @@ class lifesciencespage extends Component {
 <h2 class="mb-6 py-16 font-sans text-3xl font-bold tracking-tight text-center text-black sm:text-4xl sm:leading-none">
   Service Capabilities       
   </h2> 
-<div class="w-full h-96 " style={{backgroundImage: "url(images/industry-life-sciences-1.png)"}}>
   
-</div>
+  <section class="hero container max-w-screen-lg mx-auto pb-10">
+    <img class="mx-auto" src="images/industry-life-sciences-1.png" alt="image"></img>
+</section>
+<hr></hr>
 
 <h2 class="mb-6 py-16 font-sans text-3xl font-bold tracking-tight text-center text-black sm:text-4xl sm:leading-none">
   TEAM ACADEMICS     
   </h2> 
-<div class="w-full h-96 bg-center" style={{backgroundImage: "url(images/industry-life-sciences-2.png)"}}>
-  
-</div>
+
+  <section class="hero container max-w-screen-lg mx-auto pb-10">
+    <img class="mx-auto" src="images/industry-life-sciences-2.png" alt="image"></img>
+</section>
+
+  <div class ="bg-indigo-200 h-100 justify-center   ">
+    
+
+
+  </div>
+
 
 <h2 class="mt-16 font-sans text-3xl font-bold tracking-tight text-center text-black sm:text-4xl sm:leading-none">
   Case Studies     
@@ -553,13 +557,6 @@ class lifesciencespage extends Component {
     </div>
   </div>
 </section>
-
-
-
-
-
-
-
 
 <div class="relative w-full flex">
   <div class="rounded-lg w-full grid grid-flow-row sm:grid-flow-row grid-cols-1 sm:grid-cols-3 py-9 divide-y-2 sm:divide-y-0 sm:divide-x-2 divide-gray-100 bg-white-500 z-10">

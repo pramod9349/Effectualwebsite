@@ -15,12 +15,8 @@ class patentfilingservicespage extends Component {
               <div class="sm:text-center lg:text-left">
                 <h1 class="px-20 text-2xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">
                   <span class="block xl:inline">Patent Filing
-                   
                     <span class="block text-red-600 xl:inline"> Services</span> </span> 
-                 
                 </h1>
-                
-               
               </div>
             </main>
           </div>
@@ -82,12 +78,6 @@ Effectual Services has a team of experienced workforce, consisting of Patent Age
     </div>
   </div>
 </section>
-
-
-
-
-
-
 
 
 <div class="relative w-full flex">

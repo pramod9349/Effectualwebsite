@@ -14,11 +14,15 @@ import Globalfootprints from '../components/globalfootprints.js'
 import Whowearepy from '../components/whowearepy.js'
 
 
+
+
 function HomePage() {
   return (
     <div className="App">   
+    
      <Navigation />
      <Carouselslider />
+     
      {/* <div class="w-full bg-center bg-cover h-96" style={{backgroundImage: "url(images/banner.jpg)"}}>
             <div class="flex flex-direction:row-reverse; items-center justify-end w-full h-full bg-gray-900 bg-opacity-10">
                 <div class="px-16 items-center">
@@ -32,7 +36,9 @@ function HomePage() {
      
     {/* <MainHero /> */}
      {/* <AboutEffectual /> */}
+
      <Whowearepy />
+     
      
      {/* <OurClients /> */}
      <Clientscroll />
@@ -46,12 +52,9 @@ function HomePage() {
      {/* <Contactus /> */}
 
      <Globalfootprints />
-     
     
-
-     
      <Footer />
-     
+   
     </div>
   );
 }

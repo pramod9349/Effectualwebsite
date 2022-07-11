@@ -19,7 +19,8 @@ function learnram(){
                   '</div>' +        
                   '<div class="mt-8 lg:mt-0 lg:w-1/4">' +
                   '<div class="flex items-center ml-8"><div class="rounded "><div class="mx-auto w-full container"><div class="grid sm:grid-cols-1 w-full md:grid-cols-1 lg:grid-cols-1 xl:grid-cols-1 gap-6 pb-12"><div class="w-full flex items-center justify-center flex-col"><div class="w-full px-5 -mb-10  relative z-40"><img src="images/clients/ram-tenneti.png" alt="girl smilling" class="w-full h-full rounded-md"></div><div class="pb-8 pt-14 bg-indigo-700 rounded-md w-full "><p class="text-xl font-semibold leading-5 text-center text-white">Ram Tenneti</p><p class="text-base leading-4 mt-2 text-center text-white">Vice President - Global</p></div></div></div></div></div></div>' +           
-                '</div>' +                  
+                '</div>' +    
+                '<a href="https://in.linkedin.com/in/ram-tenneti-6a91976"><img src="images/linkedin.png" alt="linkedin" class="w-full h-full rounded-md"></a>'+                 
               '</div>' +
           '</div>' +
         '</section>',
@@ -45,10 +46,21 @@ function learnrakesh(){
                   '</div>' +        
                   '<div class="mt-8 lg:mt-0 lg:w-1/4">' +
                   '<div class="flex items-center ml-8"><div class="rounded "><div class="mx-auto w-full container"><div class="grid sm:grid-cols-1 w-full md:grid-cols-1 lg:grid-cols-1 xl:grid-cols-1 gap-6 pb-12"><div class="w-full flex items-center justify-center flex-col"><div class="w-full px-5 -mb-10  relative z-40"><img src="images/clients/rakesh-pandey.png" alt="girl smilling" class="w-full h-full rounded-md"></div><div class="pb-8 pt-14 bg-indigo-700 rounded-md w-full "><p class="text-xl font-semibold leading-5 text-center text-white">Rakesh Pandey</p><p class="text-base leading-4 mt-2 text-center text-white">Vice President - USA</p></div></div></div></div></div></div>' +           
-                '</div>' +                  
+                '</div>' +    
+                 
+                
+                '<a href="https://in.linkedin.com/in/rakeshpandeyeffectual"><img src="images/linkedin.png" alt="linkedin" class="w-full h-full rounded-md"></a>'+                 
+              
+             
+                
               '</div>' +
           '</div>' +
-        '</section>',
+     
+        '</section>'
+        ,
+
+
+        
         showCloseButton: true,
         showCancelButton: false,
         showConfirmButton:false,
@@ -69,15 +81,22 @@ function learnmanoj(){
                   '</div>' +        
                   '<div class="mt-8 lg:mt-0 lg:w-1/4">' +
                   '<div class="flex items-center ml-8"><div class="rounded "><div class="mx-auto w-full container"><div class="grid sm:grid-cols-1 w-full md:grid-cols-1 lg:grid-cols-1 xl:grid-cols-1 gap-6 pb-12"><div class="w-full flex items-center justify-center flex-col"><div class="w-full px-5 -mb-10  relative z-40"><img src="images/clients/manoj-poonia.png" alt="girl smilling" class="w-full h-full rounded-md"></div><div class="pb-8 pt-14 bg-indigo-700 rounded-md w-full "><p class="text-xl font-semibold leading-5 text-center text-white">Manoj Poonia</p><p class="text-base leading-4 mt-2 text-center text-white">Vice President - Operations</p></div></div></div></div></div></div>' +           
-                '</div>' +                  
+                '</div>' +   
+                
+                '<a href="https://in.linkedin.com/in/pooniamanoj"><img src="images/linkedin.png" alt="linkedin" class="w-full h-full rounded-md"></a>'+                 
+              
               '</div>' +
           '</div>' +
         '</section>',
+        
+        
         showCloseButton: true,
         showCancelButton: false,
         showConfirmButton:false,
         focusConfirm: false,
         width: '100%',
+       
+        
       })
 }
 
@@ -90,12 +109,15 @@ function learnnishant(){
                   '<div class="lg:w-3/4">' +
                       '<p class="mt-8 text-gray-500 dark:text-gray-400 text-justify">Nishant is a leading expert in the intellectual property space and has been a strategy advisor to clients around the globe. He has extensive experience in the IP and business research domain and has worked with leading multi-national and regional corporations on patent and R&D strategy, innovation foundation, business planning, operations, patent infringement, prior art searches, patent litigation and enforcement support services.' +
                       '</p><p class="mt-4 text-gray-500 dark:text-gray-400 text-justify">' +
-                        'Nishant holds a bachelors degree in computer science engineering from Delhi University. He has worked in offices of leading law firms in the US and UK and has also undergone extensive training in patent law from US and European patent attorneys. He was also working in a strategy consulting role in the UK for two years managing large accounts across European region.' +
-                      '</p>' + 
-                  '</div>' +        
+                        'Nishant holds a bachelors degree in computer science engineering from Delhi University. He has worked in offices of leading law firms in the US and UK and has also undergone extensive training in patent law from US and European patent attorneys. He was also working in a strategy consulting role in the UK for two years managing large accounts across European region.' +'<br></br>'+ 
+                  '</div>' + 
+                         
+                  '<div>'+
+                  '</div>'+
                   '<div class="mt-8 lg:mt-0 lg:w-1/4">' +
-                  '<div class="flex items-center ml-8"><div class="rounded "><div class="mx-auto w-full container"><div class="grid sm:grid-cols-1 w-full md:grid-cols-1 lg:grid-cols-1 xl:grid-cols-1 gap-6 pb-12"><div class="w-full flex items-center justify-center flex-col"><div class="w-full px-5 -mb-10  relative z-40"><img src="images/clients/nishant-singh.png" alt="girl smilling" class="w-full h-full rounded-md"></div><div class="pb-8 pt-14 bg-indigo-700 rounded-md w-full "><p class="text-xl font-semibold leading-5 text-center text-white">Nishant Singh</p><p class="text-base leading-4 mt-2 text-center text-white">Vice President - Strategy</p></div></div></div></div></div></div>' +           
-                '</div>' +                  
+                  '<div class="flex items-center ml-8"><div class="rounded "><div class="mx-auto w-full container"><div class="grid sm:grid-cols-1 w-full md:grid-cols-1 lg:grid-cols-1 xl:grid-cols-1 gap-6 pb-12"><div class="w-full flex items-center justify-center flex-col"><div class="w-full px-5 -mb-10  relative z-40"><img src="images/clients/nishant-singh.png" alt="girl smilling" class="w-full h-full rounded-md"></div><div class="pb-8 pt-14 bg-indigo-700 rounded-md w-full "><p class="text-xl font-semibold leading-5 text-center text-white">Nishant Singh</p><p class="text-base leading-4 mt-2 text-center text-white">Vice President - Strategy</p><div></div></div></div></div></div></div></div>' +           
+                '</div>' + 
+                '<a href="https://in.linkedin.com/in/nishant-singh-653966?original_referer=https%3A%2F%2Fwww.effectualservices.com%2Fleadership-team%2F"><img src="images/linkedin.png" alt="linkedin" class="w-full h-full rounded-md"></a>'+                 
               '</div>' +
           '</div>' +
         '</section>',
@@ -104,6 +126,7 @@ function learnnishant(){
         showConfirmButton:false,
         focusConfirm: false,
         width: '100%',
+        
       })
 }
 
@@ -297,9 +320,17 @@ class foundersleadershippage extends Component {
                   <h3 class="text-lg font-medium text-gray-700 dark:text-gray-200">Nishant Singh</h3>
                   <span class="mt-1 font-medium text-gray-600 dark:text-gray-300">VP Strategy</span>
                   <div>
+          
                   <button onClick={learnnishant} className="mx-2 my-2 bg-indigo-700 transition duration-150 ease-in-out hover:bg-indigo-600 rounded text-white px-6 py-2 text-xs">Learn More</button>
+                  
+                </div>
+                <div >
+                <button class = "mx-2 my-2  transition duration-150 ease-in-out  rounded text-white px-6 py-2 text-xs">
+                <a href="https://in.linkedin.com/in/nishant-singh-653966?original_referer=https%3A%2F%2Fwww.effectualservices.com%2Fleadership-team%2F"><img src="images/linkedin.png" alt="linkedin" class="w-full h-full rounded-md"></img></a>
+                </button>
                 </div>
               </div>
+              
           </div>
 
           <div class="w-full max-w-xs text-center">
@@ -310,6 +341,11 @@ class foundersleadershippage extends Component {
                   <span class="mt-1 font-medium text-gray-600 dark:text-gray-300">VP Global</span>
                   <div>
                   <button onClick={learnram} className="mx-2 my-2 bg-indigo-700 transition duration-150 ease-in-out hover:bg-indigo-600 rounded text-white px-6 py-2 text-xs">Learn More</button>
+                </div>
+                <div >
+                <button class = "mx-2 my-2  transition duration-150 ease-in-out  rounded text-white px-6 py-2 text-xs">
+                <a href="https://in.linkedin.com/in/ram-tenneti-6a91976"><img src="images/linkedin.png" alt="linkedin" class="w-full h-full rounded-md"></img></a>
+                </button>
                 </div>
               </div>
           </div>
@@ -323,6 +359,12 @@ class foundersleadershippage extends Component {
                   <div>
                   <button onClick={learnrakesh} className="mx-2 my-2 bg-indigo-700 transition duration-150 ease-in-out hover:bg-indigo-600 rounded text-white px-6 py-2 text-xs">Learn More</button>
                 </div>
+                <div >
+                <button class = "mx-2 my-2  transition duration-150 ease-in-out  rounded text-white px-6 py-2 text-xs">
+                <a href="https://in.linkedin.com/in/rakeshpandeyeffectual"><img src="images/linkedin.png" alt="linkedin" class="w-full h-full rounded-md"></img></a>
+                </button>
+                </div>
+
               </div>
           </div>
 
@@ -335,8 +377,14 @@ class foundersleadershippage extends Component {
                   <div>
                   <button onClick={learnmanoj} className="mx-2 my-2 bg-indigo-700 transition duration-150 ease-in-out hover:bg-indigo-600 rounded text-white px-6 py-2 text-xs">Learn More</button>
                 </div>
+                <div >
+                <button class = "mx-2 my-2  transition duration-150 ease-in-out  rounded text-white px-6 py-2 text-xs">
+                <a href="https://in.linkedin.com/in/pooniamanoj"><img src="images/linkedin.png" alt="linkedin" class="w-full h-full rounded-md"></img></a>
+                </button>
+                </div>
               </div>
           </div>
+          
       </div>
   </div>
 </section>
