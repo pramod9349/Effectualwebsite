@@ -198,7 +198,7 @@ class industryengineeringpage extends Component {
   </h2> 
 
   <section class="hero container max-w-screen-lg mx-auto pb-10">
-    <img class="mx-auto" src="images/Industry-Engg-1.png" alt="images"></img>
+    <img class="mx-auto" src="images/Industry-Engg-1.png" alt=""></img>
 </section>
 
 <hr></hr>
@@ -207,7 +207,7 @@ class industryengineeringpage extends Component {
   </h2> 
 
   <section class="hero container max-w-screen-lg mx-auto pb-10">
-    <img class="mx-auto" src="images/Industry-Engg-2.png" alt="image"></img>
+    <img class="mx-auto" src="images/Industry-Engg-2.png" alt=""></img>
 </section>
 
 

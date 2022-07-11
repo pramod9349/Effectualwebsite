@@ -515,7 +515,7 @@ class lifesciencespage extends Component {
   </h2> 
   
   <section class="hero container max-w-screen-lg mx-auto pb-10">
-    <img class="mx-auto" src="images/industry-life-sciences-1.png" alt="image"></img>
+    <img class="mx-auto" src="images/industry-life-sciences-1.png" alt=""></img>
 </section>
 <hr></hr>
 
@@ -524,7 +524,7 @@ class lifesciencespage extends Component {
   </h2> 
 
   <section class="hero container max-w-screen-lg mx-auto pb-10">
-    <img class="mx-auto" src="images/industry-life-sciences-2.png" alt="image"></img>
+    <img class="mx-auto" src="images/industry-life-sciences-2.png" alt=""></img>
 </section>
 
   <div class ="bg-indigo-200 h-100 justify-center   ">

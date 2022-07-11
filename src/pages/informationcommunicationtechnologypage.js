@@ -565,7 +565,7 @@ class informationcommunicationtechnologypage extends Component {
   </h2> 
 
   <section class="hero container max-w-screen-lg mx-auto pb-10">
-    <img class="mx-auto" src="images/Industry-ict-1.png" alt="image"></img>
+    <img class="mx-auto" src="images/Industry-ict-1.png" alt=""></img>
 </section>
 
 <hr></hr>
@@ -574,7 +574,7 @@ class informationcommunicationtechnologypage extends Component {
   </h2> 
 
   <section class="hero container max-w-screen-lg mx-auto pb-10">
-    <img class="mx-auto" src="images/Industry-ict-2.png" alt="image"></img>
+    <img class="mx-auto" src="images/Industry-ict-2.png" alt=""></img>
 </section>
 
 
@@ -602,11 +602,6 @@ class informationcommunicationtechnologypage extends Component {
     </div>
   </div>
 </section>
-
-
-
-
-
 
 
                 <Footer />
