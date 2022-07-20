@@ -281,7 +281,6 @@ function App() {
   return (
     <Routes>
     <Route path="/" element={<Home />} />
-    <Route path="/login" element={<Loginpageroute />} />
     <Route path="/contact-us" element={<Contactus />} />
     <Route path="/life-at-effectual" element={<Lifeeffectual />} />
     <Route path="/career" element={<Career />} />
@@ -554,7 +553,7 @@ function App() {
     <Route path="/Immunology" element={<Immunologypagefunc />} />
     <Route path="/Genomics" element={<Genomicsfunction />} />
     <Route path="/Petro-Chemical" element={<Petrochemicalfunction />} />
-    <Route path="/login" element={<Loginpageroute />} />
+   
     
 
    </Routes>
