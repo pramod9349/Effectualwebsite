@@ -127,7 +127,7 @@ import Tendanalysispage from './pages/tendanalysispage';
 import Historicaldatapage from './pages/historicaldatapage';
 import Depositionsmmarypage from './pages/depositionsmmarypage';
 import Buyeridentificationpage from './pages/buyeridentificationpage';
-// import Loginpage from './pages/loginpage';
+import Loginpage from './pages/loginpage';
 import Lte3GPPage from './pages/lte3GPPage';
 import Smartdevicespage from './pages/smartdevicespage';
 import Entertainmentdevicepage from './pages/entertainmentdevicepage';
@@ -273,15 +273,15 @@ import Genomicspage from './pages/genomicspage';
 import PetrChemicalpage from './pages/petrChemicalpage';
 
 
+
+
 import {  Routes, Route } from 'react-router-dom';
-
-
 
 function App() {
   return (
     <Routes>
     <Route path="/" element={<Home />} />
-    {/* <Route path="/login" element={<Loginpageroute />} /> */}
+    <Route path="/login" element={<Loginpageroute />} />
     <Route path="/contact-us" element={<Contactus />} />
     <Route path="/life-at-effectual" element={<Lifeeffectual />} />
     <Route path="/career" element={<Career />} />
@@ -554,11 +554,20 @@ function App() {
     <Route path="/Immunology" element={<Immunologypagefunc />} />
     <Route path="/Genomics" element={<Genomicsfunction />} />
     <Route path="/Petro-Chemical" element={<Petrochemicalfunction />} />
+    <Route path="/login" element={<Loginpageroute />} />
     
 
    </Routes>
   );
 }
+
+function Loginpageroute()
+{
+  return(
+    < Loginpage />
+  );
+  }
+
 
 function Petrochemicalfunction()
 {
@@ -1638,12 +1647,7 @@ function Lte3gppsearch()
   }
 
 
-// function Loginpageroute()
-// {
-//   return(
-//     < Loginpage />
-//   );
-//   }
+
 
 
 function BuyerIdentification()

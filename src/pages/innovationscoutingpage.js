@@ -51,18 +51,8 @@ class innovationscoutingpage extends Component {
   HOW WE DO IT?     
   </h2> 
 <div class="w-full h-1/3 bg-blue-900 text-center" >
-  <img alt="content" class="h-1/2 text-center" src="images/how-we-do-desktop.png" />
+  <img alt="content" class="mx-auto" src="images/how-we-do-desktop.png" />
 </div>
-
-
-
-
-
-
-
-
-
-
 <div class="relative w-full flex">
   <div class="rounded-lg w-full grid grid-flow-row sm:grid-flow-row grid-cols-1 sm:grid-cols-3 py-9 divide-y-2 sm:divide-y-0 sm:divide-x-2 divide-gray-100 bg-white-500 z-10">
         <div class="flex items-center justify-start sm:justify-center py-4 sm:py-6 w-8/12 px-4 sm:w-auto mx-auto sm:mx-0"><div class="flex mx-auto w-full sm:w-auto"><div class="flex items-center justify-center bg-orange-100 py-4 w-12 h-12 mr-6 rounded-full"><svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">

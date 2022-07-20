@@ -158,7 +158,7 @@ class footer extends Component {
           showCancelButton: false,
           showConfirmButton:false,
           focusConfirm: false,
-          width: '80%',
+          width: '60%',
           
         })
 

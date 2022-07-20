@@ -1,8 +1,10 @@
 import React, { Component } from 'react';
 import Navigation from '../components/navigation'
 import Footer from '../components/footer'
+import IndexPage from '../components/casestudylist';
 
-class casestudiespage extends Component {
+
+class Indexcasestudy extends Component {
     render() {
         return (
             <div>
@@ -29,67 +31,15 @@ class casestudiespage extends Component {
         </div>
       </div>
       
-<section class="text-gray-600 body-font">
-  <div class="container px-5 py-24 mx-auto">
-    <div class="flex flex-wrap -mx-4 -mb-10 text-center">
-      <div class="sm:w-1/2 mb-10 px-4">
-        <div class="rounded-lg h-64 overflow-hidden">
-          <img alt="content" class="object-cover object-center h-full w-full" src="images/case-studies1-300x200.png" />
-        </div>
-        <h2 class="title-font text-2xl font-medium text-gray-900 mt-6 mb-3">Patent Licencing</h2>
-       
-      </div>
-      <div class="sm:w-1/2 mb-10 px-4">
-        <div class="rounded-lg h-64 overflow-hidden">
-          <img alt="content" class="object-cover object-center h-full w-full" src="images/case-studies1-300x200.png" />
-        </div>
-        <h2 class="title-font text-2xl font-medium text-gray-900 mt-6 mb-3">How we helped a global toy maker</h2>
-       
-      </div>
+      <section class="text-gray-600 body-font">
+  
    
-    </div>
-
-
-
-  </div>
-
-
-  <div class="container px-5 mx-auto">
+  <IndexPage />
+ 
     
-
-
-    <div class="flex flex-wrap -mx-4 -mb-10 text-center">
-      <div class="sm:w-1/2 mb-10 px-4">
-        <div class="rounded-lg h-64 overflow-hidden">
-          <img alt="content" class="object-cover object-center h-full w-full" src="images/case-studies1-300x200.png" />
-        </div>
-        <h2 class="title-font text-2xl font-medium text-gray-900 mt-6 mb-3">How we helped a global toy maker with trademark search</h2>
-       
-      </div>
-      <div class="sm:w-1/2 mb-10 px-4">
-        <div class="rounded-lg h-64 overflow-hidden">
-          <img alt="content" class="object-cover object-center h-full w-full" src="images/licencing-support-300x200.png" />
-        </div>
-        <h2 class="title-font text-2xl font-medium text-gray-900 mt-6 mb-3">Patent Licencing Support</h2>
-       
-      </div>
-   
-    </div>
-
-  </div>
-
-  
-
-  
-
   
 
 </section>
-
-
-
-            
-
 
 
                 <Footer />
@@ -98,4 +48,4 @@ class casestudiespage extends Component {
     }
 }
 
-export default casestudiespage;
+export default Indexcasestudy;

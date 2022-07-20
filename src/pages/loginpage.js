@@ -8,8 +8,6 @@ class loginpage extends Component {
             <div className="App"> 
 <Logincomponentis />
 </div>
-      
-     
         );
     }
 }

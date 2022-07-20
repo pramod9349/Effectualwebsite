@@ -14,12 +14,9 @@ import Globalfootprints from '../components/globalfootprints.js'
 import Whowearepy from '../components/whowearepy.js'
 
 
-
-
 function HomePage() {
   return (
     <div className="App">   
-    
      <Navigation />
      <Carouselslider />
      

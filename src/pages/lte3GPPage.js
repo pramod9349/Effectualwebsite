@@ -28,8 +28,6 @@ class lte3GPPage extends Component {
           <img class="h-56 w-full  sm:h-64 md:h-96 lg:w-full lg:h-full object-contain" src="images/banner-patent.jpg" alt="" />
         </div>
       </div>
-           
-
                         <section class="text-gray-600 px-16 body-font">
                           <div class="container px-5 py-6 mx-auto">
                             <div class="flex flex-wrap w-full mb-20">
@@ -105,11 +103,6 @@ For clients who wish to draft responses themselves, we can perform the heavy-lif
   </div>
       <div class="absolute bg-black-600 opacity-5 w-11/12 roudned-lg h-64 sm:h-48 top-0 mt-8 mx-auto left-0 right-0"></div>
 </div>
-
-
-
-
-                
 
                 <Footer />
             </div>

@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Navigation from '../components/navigation'
 import Footer from '../components/footer'
+import Locatinproject from '../components/locatinproject';
 
 class infringementsearchpage extends Component {
     render() {
@@ -31,26 +32,26 @@ class infringementsearchpage extends Component {
        
                         <section class="text-gray-600 px-16 body-font">
                           <div class="container px-5 py-6 mx-auto">
-                            <div class="flex flex-wrap w-full mb-20">
+                            <div class="flex flex-wrap w-full mb-8">
                            
-                              <p class=" w-full leading-relaxed text-gray-500">
+                              <p class=" w-full leading-relaxed text-gray-500 text-justify">
 				
-                              You have gone through a lot of hassle in order to obtain a patent, you are also maintaining the patent by paying timely maintenance fees. What next?
+                              Organizations make significant investments in research and development and filing patents. We help our clients convert these investments into returns by enforcing the legal rights of their IP portfolio. 
 				<br /><br />
 
                 
-                Your Patent provides a monopolistic right to you only and in order to practice the technology of the patent – others need to take a license from you. An infringement search is one of the most important searches designed to help the patent owners or inventors to ascertain that their patented technology is not being used without their consent.
+        A patent comes with certain legal rights, one of them being able to monopolize your invention for a certain period (usually twenty years). One way to monetize patents is by conducting patent infringement searches. A patent infringement occurs when an organization knowingly or unknowingly incorporates the claimed elements of a granted patent into their product(s)/service(s). 
 
                 <br /> <br />
-                We at Effectual Services help our clients by conducting detailed searches for identifying any products that may infringe on the patent, the infringement search results in identifying a list of products/services/standards that may be based on the technology of the subject patent.
+                However, searching for these products or services isn’t as forward as it may seem because companies often advertise their products or services using so-called ‘marketing language’. Product advertisements and literature often skip out on technical terms and jargon to appeal and be understandable to a larger audience. Meanwhile, a patent is a techno-legal document that contains all sorts of technical and legal terms. A simple google search of the patent claims usually returns not highly relevant results. Infringement searches require in-depth knowledge of the patented subject matter domain, relevant product or services and the ability to relate ‘marketing language’ to the techno-legal language.
 <br /><br />
-The search process includes preparing a list of top players in the technology area related to the subject patent and preparing a list of target products, which includes searching on company/OEMs websites, 3rd party subscriptions & various other databases.
+Our team of domain experts at Effectual Services performs an in-depth analysis of patents and identifies the key application market areas for the invention. We identify companies active in the identified market and thoroughly search their products and services portfolio to identify infringing leads. Our techno-legal professionals are well versed in correlating ‘marketing’ language with technical terminologies.
   <br /><br />
-  Once the relevant products are identified, the analysis is further completed by referring various catalogs, manuals, data sheets, white papers, product broachers, etc. to ascertain the infringement. At times, we also have performed hands-on product testing in order to ascertain infringement.
+  We also provide portfolio management and targeted infringement searches for maximum monetization. Our team analyzes and/or mines IP portfolios for our clients, identifies target markets and competitors, and scrutinizes competitors' product portfolios and financial records.
   <br /><br />
-  Depending on the claims of the patent, another approach is also taken to see if any of the latest standards incorporate the features of the patent. We have experience of working on different standards including IEEE 802, 3GPP, LTE, etc.
-  <br /><br />
-  Effectual Services has a team of experienced workforce, consisting of Engineers, Bachelors, Masters and PhDs from varied technical backgrounds, including Computer Science and Information Technology, Electronics and Communications, Electrical, Mechanical, Chemical, Biotechnology, Pharmaceuticals and Life Sciences domain. Many of our team members have a Law degree in addition to the technical degrees making them ideal for Intellectual Property related services.        
+  We provide the deliverables as infringement feasibility reports and claim charts. A feasibility report includes infringement probability of a product or service along with a detailed summary of the analysis. The turnaround time for a feasibility report is eight hours. Further, the claim charts include detailed mapping of the product features against the patent claims with proper comments. The turnaround time for a claim chart is 12-14 Hours.
+  
+        
 </p>
 							
                             </div>
@@ -58,62 +59,30 @@ The search process includes preparing a list of top players in the technology ar
                           </div>
                         </section>
                       
-                        <div class="relative w-full flex">
-                          <div class="rounded-lg w-full grid grid-flow-row sm:grid-flow-row grid-cols-1 sm:grid-cols-4 py-9 divide-y-2 sm:divide-y-0 sm:divide-x-2 divide-gray-100 bg-white-500 z-10">
-                            <div class="flex items-center justify-start sm:justify-center py-4 sm:py-6 w-8/12 px-4 sm:w-auto mx-auto sm:mx-0">
-                              <div class="flex mx-auto w-full sm:w-auto">
-                                <div class="flex items-center justify-center bg-orange-100 py-4 w-12 h-12 mr-6 rounded-full"><img src="images/technical.png" class="h-12 w-12" alt="" /></div><div class="flex flex-col"><p class="text-xl text-black-600 font-bold">99%+</p><p class="text-lg text-black-500">Success rate in Timely Delivery</p></div></div></div>
-                                <div class="flex items-center justify-start sm:justify-center py-4 sm:py-6 w-8/12 px-4 sm:w-auto mx-auto sm:mx-0"><div class="flex mx-auto w-30 sm:w-auto"><div class="flex items-center justify-center bg-orange-100 w-12 h-12 mr-6 rounded-full"><img src="images/project.png" class="h-12 w-12" alt="" /></div><div class="flex flex-col"><p class="text-xl text-black-600 font-bold">50+</p><p class="text-lg text-black-500">Quality Check Experts</p></div></div></div>
-                                <div class="flex items-center justify-start sm:justify-center py-4 sm:py-6 w-8/12 px-4 sm:w-auto mx-auto sm:mx-0"><div class="flex mx-auto w-30 sm:w-auto"><div class="flex items-center justify-center bg-orange-100 w-12 h-12 mr-6 rounded-full"><img src="images/customer.png" class="h-12 w-12" alt="" /></div><div class="flex flex-col"><p class="text-xl text-black-600 font-bold">150+</p><p class="text-lg text-black-500">Patent Professionals</p></div></div></div>
-                                <div class="flex items-center justify-start sm:justify-center py-4 sm:py-6 w-8/12 px-4 sm:w-auto mx-auto sm:mx-0"><div class="flex mx-auto w-30 sm:w-auto"><div class="flex items-center justify-center bg-orange-100 w-12 h-12 mr-6 rounded-full"><img src="images/client.png" class="h-12 w-12" alt="" /></div><div class="flex flex-col"><p class="text-xl text-black-600 font-bold">50+</p><p class="text-lg text-black-500">Customer Countries</p></div></div></div>
-                              </div>
-                              <div class="absolute bg-black-600 opacity-5 w-11/12 roudned-lg h-64 sm:h-48 top-0 mt-8 mx-auto left-0 right-0" ></div>
-                        </div>
-
-<h2 class="mt-16 font-sans text-3xl font-bold tracking-tight text-center text-black sm:text-4xl sm:leading-none">
+<hr></hr>
+                        <h2 class="mt-8 mb-4 font-sans text-3xl font-bold tracking-tight text-center text-sky-600 sm:text-4xl sm:leading-none">
   Case Studies     
   </h2> 
-<section class="text-gray-600 body-font">
-  <div class="container px-5 py-24 mx-auto">
-    <div class="flex flex-wrap -mx-4 -mb-10 text-center">
-      <div class="sm:w-1/2 mb-10 px-4">
-        <div class="rounded-lg h-64 overflow-hidden">
-          <img alt="content" class="object-cover object-center h-full w-full" src="images/slide-2-2-300x229.jpg" />
-        </div>
-        <h2 class="title-font text-2xl font-medium text-gray-900 mt-6 mb-3">Patent Licensing</h2>
-       
-      </div>
-      <div class="sm:w-1/2 mb-10 px-4">
-        <div class="rounded-lg h-64 overflow-hidden">
-          <img alt="content" class="object-cover object-center h-full w-full" src="images/slide-1-2-300x229.jpg" />
-        </div>
-        <h2 class="title-font text-2xl font-medium text-gray-900 mt-6 mb-3">How we helped a global toy maker</h2>
-        
-      </div>
-    </div>
-  </div>
+<section class="px-36 text-white body-font ">
+<div class="px-12 pt-8 text-justify border-2 border-rose-600 ... bg-sky-700">
+  <p class ="mb-4">One of our client, from telecommunication domain, requested us to help monetize their IP portfolio of large size against their key competitors. The requirement was to identify potential infringing products or services from the competitors which closely read the claims of the issued assets. <br></br><br></br>
+  As a first step, we ran the provided Granted Patents from our client portfolio through our in-house ranking tool in order to determine their patent strength.  Our ranking tool is designed to determine the value of a patent based on 10 key parameters, for example forward citations, Litigation status, family legal status, geographical coverage, etc. The proprietary algorithm of the tool assigns different weights to the key parameters based upon one’s business context and assesses the strength of each patent accordingly. <br></br><br></br>
+  Once the portfolio was ranked based on the key parameters, as a next step, we manually categorized the portfolio based on the prepared taxonomy. The taxonomy was earlier evolved by our technology experts using technology-specific keywords and patent classes. The result was a bucket of patents that were domain-specific and highly valued.
+  <br></br><br></br>
+  The next task was to identify potential targets from competitors' product and services portfolio. Our domain experts used their experience and in-depth knowledge of the products and services to derive keywords which were functionally equivalent to the claimed aspects of granted assets. Using this approach, we analyzed each competitor product thoroughly against all the categorized patents of our client and we gave them a moniker, 'H', 'M', or 'L' for high, medium, and low respectively, based on the infringement probability against each granted asset. Using this approach, we were able to identify a good number of potential infringing products from the vast and varying product portfolio of competitors and later we prepared claim charts for nearly 30% of the granted assets of our client. For the remaining 70% assets, we prepared feasibility reports describing our detailed technical findings in brief. 
+  <br></br><br></br>
+The client was highly impressed by our output and as a result we are still continuing to extend our services and support to fulfill their monetization and other IP business needs.
+<div class="text-right">
+<a class="focus:outline-none  underline text-white text-s font-bold text-white cursor-pointer hover:scale-105 hover:text-red-700 ... justify-end" href ="/case-studies"> Click For More </a>
+</div>
+  
+  </p>
+
+  </div> 
+      
 </section>
 
-
-
-<div class="relative w-full flex">
-  <div class="rounded-lg w-full grid grid-flow-row sm:grid-flow-row grid-cols-1 sm:grid-cols-3 py-9 divide-y-2 sm:divide-y-0 sm:divide-x-2 divide-gray-100 bg-white-500 z-10">
-        <div class="flex items-center justify-start sm:justify-center py-4 sm:py-6 w-8/12 px-4 sm:w-auto mx-auto sm:mx-0"><div class="flex mx-auto w-full sm:w-auto"><div class="flex items-center justify-center bg-orange-100 py-4 w-12 h-12 mr-6 rounded-full"><svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
-          <path d="M2.003 5.884L10 9.882l7.997-3.998A2 2 0 0016 4H4a2 2 0 00-1.997 1.884z" />
-          <path d="M18 8.118l-8 4-8-4V14a2 2 0 002 2h12a2 2 0 002-2V8.118z" />
-        </svg></div><div class="flex flex-col"><p class="text-xl text-black-600 font-bold">info@effectualservices.com</p></div></div></div>
-        
-        <div class="flex items-center justify-start sm:justify-center py-4 sm:py-6 w-8/12 px-4 sm:w-auto mx-auto sm:mx-0"><div class="flex mx-auto w-30 sm:w-auto"><div class="flex items-center justify-center bg-orange-100 w-12 h-12 mr-6 rounded-full"><svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
-          <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
-        </svg></div><div class="flex flex-col"><p class="text-xl text-black-600 font-bold">SDF A-05, NSEZ, Noida–Dadri Road, Noida Phase II -201305</p></div></div></div>
-
-        <div class="flex items-center justify-start sm:justify-center py-4 sm:py-6 w-8/12 px-4 sm:w-auto mx-auto sm:mx-0"><div class="flex mx-auto w-30 sm:w-auto"><div class="flex items-center justify-center bg-orange-100 w-12 h-12 mr-6 rounded-full"><svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
-          <path d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z" />
-        </svg></div><div class="flex flex-col"><p class="text-xl text-black-600 font-bold">+91-120-4522210</p></div></div></div>
-        
-  </div>
-      <div class="absolute bg-black-600 opacity-5 w-11/12 roudned-lg h-64 sm:h-48 top-0 mt-8 mx-auto left-0 right-0"></div>
-</div>
+                  <Locatinproject />
                 <Footer />
             </div>
         );
