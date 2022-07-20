@@ -8,7 +8,7 @@ function patentdrafting(){
           ' <section class="bg-white dark:bg-gray-800"> ' +
           '<div class="container px-8 pt-8 mx-auto">' +
               '<div class="items-start lg:flex">' +        
-                  '<div class="w=full">' +'<p>3. PATENT DRAFTING AND FILING</P'+ 
+                  '<div class="w=full">' +
                       '<p class=" mt-8 text-gray-500 dark:text-gray-400 text-justify ">A California-based technology company wanted to protect their innovative software and associated products. Despite the stringent patentability criteria for software and business method arts, we assisted them in building a strong patent portfolio. We adopted a robust approach that included a strategically planned pre-filing search to locate patents in the similar technology domain and helped them to modify and re-draft the patent claims. Through this laborious process, we were able to procure a strong patent portfolio for the company and helped in increasing their revenue.'+
                       '</p>' +
                   '</div>' +        
@@ -19,7 +19,7 @@ function patentdrafting(){
           '</div>' +
         '</section>',
         
-        
+    
         showCloseButton: true,
         showCancelButton: false,
         showConfirmButton:false,
