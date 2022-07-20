@@ -8,7 +8,7 @@ function patentdrafting(){
           ' <section class="bg-white dark:bg-gray-800"> ' +
           '<div class="container px-8 pt-8 mx-auto">' +
               '<div class="items-start lg:flex">' +        
-                  '<div class="w=full">' +'<h1 class="text-center font-semibold">3. PATENT DRAFTING AND FILING</h1>'+
+                  '<div class="w=full">' +'<p>3. PATENT DRAFTING AND FILING</P'+ 
                       '<p class=" mt-8 text-gray-500 dark:text-gray-400 text-justify ">A California-based technology company wanted to protect their innovative software and associated products. Despite the stringent patentability criteria for software and business method arts, we assisted them in building a strong patent portfolio. We adopted a robust approach that included a strategically planned pre-filing search to locate patents in the similar technology domain and helped them to modify and re-draft the patent claims. Through this laborious process, we were able to procure a strong patent portfolio for the company and helped in increasing their revenue.'+
                       '</p>' +
                   '</div>' +        
@@ -37,12 +37,12 @@ function evaluationserch(){
           '<div class="container px-8 pt-8 mx-auto">' +
               '<div class="items-start lg:flex">' +        
                   '<div class="w=full">' +'<h1 class="text-center font-semibold">1.	PATENT EVALUATION</h1>'+
-                      '<p class=" mt-8 text-gray-500 dark:text-gray-400 text-justify ">One of our clients, a patent brokerage company, needed assistance in patent ranking and technology tagging. Through our indigenous method of manual screening and ranking, we assisted the client in the evaluation of patent portfolio and identified patents worth monetizing. For the high value patents, we developed Evidence of Use charts that indicated commercial prospects'+
+                      '<p class=" mt-8 text-gray-500 dark:text-gray-400 text-justify ">One of our clients, a patent brokerage company, needed assistance in patent ranking and technology tagging. Through our indigenous method of manual screening and ranking, we assisted the client in the evaluation of patent portfolio and identified patents worth monetizing. For the high value patents, we developed Evidence of Use charts that indicated commercial prospects.'+
                       '</p>' +
                   '</div>' +        
                              
                 '</div>' +   
-                
+            
                '</div>' +
           '</div>' +
         '</section>',
