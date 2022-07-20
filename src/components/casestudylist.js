@@ -295,7 +295,7 @@ function Indexcasestudy() {
                         <p className="text-base sm:text-lg md:text-xl lg:text-2xl font-bold leading-normal text-gray-800">Files</p>
                         <div className="mt-4 sm:mt-0">
                             <button className="inline-flex sm:ml-3 items-start justify-start px-6 py-3 bg-indigo-700 hover:bg-indigo-600 focus:outline-none rounded">
-                                <p className="text-sm font-medium leading-none text-white"><a href="http://www.effepro.com/Effectual_Services_Case_Studies.pdf" target="_blank" rel="noopener" >Download All</a></p>
+                                <p className="text-sm font-medium leading-none text-white"><a href="http://www.effepro.com/Effectual_Services_Case_Studies.pdf"  >Download All</a></p>
                             </button>
                         </div>
                     </div>
