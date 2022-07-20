@@ -8,7 +8,7 @@ function patentdrafting(){
           ' <section class="bg-white dark:bg-gray-800"> ' +
           '<div class="container px-8 pt-8 mx-auto">' +
               '<div class="items-start lg:flex">' +        
-                  '<div class="w=full">' +
+                  '<div class="w=full">' + 
                       '<p class=" mt-8 text-gray-500 dark:text-gray-400 text-justify ">A California-based technology company wanted to protect their innovative software and associated products. Despite the stringent patentability criteria for software and business method arts, we assisted them in building a strong patent portfolio. We adopted a robust approach that included a strategically planned pre-filing search to locate patents in the similar technology domain and helped them to modify and re-draft the patent claims. Through this laborious process, we were able to procure a strong patent portfolio for the company and helped in increasing their revenue.'+
                       '</p>' +
                   '</div>' +        
@@ -19,7 +19,7 @@ function patentdrafting(){
           '</div>' +
         '</section>',
         
-    
+        title: "PATENT DRAFTING AND FILING",
         showCloseButton: true,
         showCancelButton: false,
         showConfirmButton:false,
@@ -36,7 +36,7 @@ function evaluationserch(){
           ' <section class="bg-white dark:bg-gray-800"> ' +
           '<div class="container px-8 pt-8 mx-auto">' +
               '<div class="items-start lg:flex">' +        
-                  '<div class="w=full">' +'<h1 class="text-center font-semibold">1.	PATENT EVALUATION</h1>'+
+                  '<div class="w=full">' +
                       '<p class=" mt-8 text-gray-500 dark:text-gray-400 text-justify ">One of our clients, a patent brokerage company, needed assistance in patent ranking and technology tagging. Through our indigenous method of manual screening and ranking, we assisted the client in the evaluation of patent portfolio and identified patents worth monetizing. For the high value patents, we developed Evidence of Use charts that indicated commercial prospects.'+
                       '</p>' +
                   '</div>' +        
@@ -47,7 +47,7 @@ function evaluationserch(){
           '</div>' +
         '</section>',
         
-        
+        title: "PATENT EVALUATION",
         showCloseButton: true,
         showCancelButton: false,
         showConfirmButton:false,
@@ -64,7 +64,7 @@ function languagesearch(){
           ' <section class="bg-white dark:bg-gray-800"> ' +
           '<div class="container px-8 pt-8 mx-auto">' +
               '<div class="items-start lg:flex">' +        
-                  '<div class="w=full">' +'<h1 class="text-center font-semibold">2.	ASIAN LANGUAGE SEARCH</h1>'+
+                  '<div class="w=full">' +
                       '<p class=" mt-8 text-gray-500 dark:text-gray-400 text-justify ">We assisted a leading law firm in conducting native Chinese language searches. The objective was to uncover prior art references in the Asian languages that do not have an English language counterpart. The results identified were carefully screened in English language as well as native languages.'+
                       '</p>' +
                   '</div>' +        
@@ -75,7 +75,7 @@ function languagesearch(){
           '</div>' +
         '</section>',
         
-        
+        title: "ASIAN LANGUAGE SEARCH",
         showCloseButton: true,
         showCancelButton: false,
         showConfirmButton:false,
@@ -92,7 +92,7 @@ function patentserch(){
           ' <section class="bg-white dark:bg-gray-800"> ' +
           '<div class="container px-8 pt-8 mx-auto">' +
               '<div class="items-start lg:flex">' +        
-                  '<div class="w=full">' +'<h1 class="text-center font-semibold">4. PATENT SEARCHES SUPPORT</h1>'+
+                  '<div class="w=full">' +
                       '<p class=" mt-8 text-gray-500 dark:text-gray-400 text-justify ">A US-based technology company wanted to develop a patent filing strategy. The objective was to identify white spaces and technology which would enable them to channelize their research and development initiatives. Our team structured a methodical search strategy that comprised of defining apt technology taxonomy, identified and classified patents pertinent to the taxonomy. The search enabled the client to make well-informed decisions and save costs.'+
                       '</p>' +
                   '</div>' +        
@@ -103,7 +103,7 @@ function patentserch(){
           '</div>' +
         '</section>',
         
-        
+        title: "PATENT SEARCHES SUPPORT",
         showCloseButton: true,
         showCancelButton: false,
         showConfirmButton:false,
@@ -119,7 +119,7 @@ function patentlicencing(){
           ' <section class="bg-white dark:bg-gray-800"> ' +
           '<div class="container px-8 pt-8 mx-auto">' +
               '<div class="items-start lg:flex">' +        
-                  '<div class="w=full">' +'<h1 class="text-center font-semibold">5.PATENT LICENSING SUPPORT</h1>'+
+                  '<div class="w=full">' +
                       '<p class=" mt-8 text-gray-500 dark:text-gray-400 text-justify ">Effectual assisted a US-based company in successfully out-licensing more than 50 patents to multiple players, which resulted in maximizing revenue of more than 60 million dollars. We worked closely with the company’s attorney to identify target products and companies and developed Evidence of Use charts and infringement contentions. Our team provided support in preparing claim to specification charts and prepared responses to invalidity contentions.'+
                       '</p>' +
                   '</div>' +        
@@ -130,7 +130,7 @@ function patentlicencing(){
           '</div>' +
         '</section>',
         
-        
+        title: "PATENT LICENSING SUPPORT",
         showCloseButton: true,
         showCancelButton: false,
         showConfirmButton:false,
@@ -147,7 +147,7 @@ function ipsupportservices(){
           ' <section class="bg-white dark:bg-gray-800"> ' +
           '<div class="container px-8 pt-8 mx-auto">' +
               '<div class="items-start lg:flex">' +        
-                  '<div class="w=full">' +'<h1 class="text-center font-semibold">6.	IP SUPPORT SERVICES </h1>'+
+                  '<div class="w=full">' +
                       '<p class=" mt-8 text-gray-500 dark:text-gray-400 text-justify ">A Silicon Valley-based IP law firm was facing challenges related to managing its docketing backlog. Effectual supported the firm through a dedicated team of paralegals who maintain and manage patent dockets and coordinate with the concerned attorneys in preparing filing forms, sending reminders, tracking deadlines, assignment documents, and document classification and management.'+
                       '</p>' +
                   '</div>' +        
@@ -158,7 +158,7 @@ function ipsupportservices(){
           '</div>' +
         '</section>',
         
-        
+        title: "IP SUPPORT SERVICES",
         showCloseButton: true,
         showCancelButton: false,
         showConfirmButton:false,
@@ -176,7 +176,7 @@ function informationdiscloser(){
           ' <section class="bg-white dark:bg-gray-800"> ' +
           '<div class="container px-8 pt-8 mx-auto">' +
               '<div class="items-start lg:flex">' +        
-                  '<div class="w=full">' +'<h1 class="text-center font-semibold">7.	INFORMATION DISCLOSURE STATEMENT (IDS) </h1>'+
+                  '<div class="w=full">' +
                       '<p class=" mt-8 text-gray-500 dark:text-gray-400 text-justify ">A leading corporate filed a significant number of patent applications and faced challenges with the preparation of their IDS forms. The arduous task involved tracking and identifying the IDSs filed globally. We assisted the client in gathering the prior art from various patent databases and tracking the references filed in the IDSs globally. We identified all the references in the patent application and submitted the IDS as per the guidelines defined by PTO.'+
                       '</p>' +
                   '</div>' +        
@@ -187,7 +187,7 @@ function informationdiscloser(){
           '</div>' +
         '</section>',
         
-        
+        title: "INFORMATION DISCLOSURE STATEMENT (IDS)",
         showCloseButton: true,
         showCancelButton: false,
         showConfirmButton:false,
@@ -206,7 +206,7 @@ function profreading(){
           ' <section class="bg-white dark:bg-gray-800"> ' +
           '<div class="container px-8 pt-8 mx-auto">' +
               '<div class="items-start lg:flex">' +        
-                  '<div class="w=full">' +'<h1 class="text-center font-semibold">8.	PROOFREADING SERVICES </h1>'+
+                  '<div class="w=full">' +
                       '<p class=" mt-8 text-gray-500 dark:text-gray-400 text-justify ">A US based law firm based was facing challenges in proofreading patent applications. The objective was to highlight clerical errors and check the subject contextually. The client partnered with us to undertake the paralegal task and we greatly increased their efficiency. We identified the clerical errors such as spelling, bibliographic details, consistency in terms, claim dependencies, etc. Our service yielded significant benefits in terms of minimizing work pressure and helped the client to focus on primary areas.'+
                       '</p>' +
                   '</div>' +        
@@ -217,7 +217,7 @@ function profreading(){
           '</div>' +
         '</section>',
         
-        
+        title: "PROOFREADING SERVICES",
         showCloseButton: true,
         showCancelButton: false,
         showConfirmButton:false,
@@ -236,7 +236,7 @@ function docketsystem(){
           ' <section class="bg-white dark:bg-gray-800"> ' +
           '<div class="container px-8 pt-8 mx-auto">' +
               '<div class="items-start lg:flex">' +        
-                  '<div class="w=full">' +'<h1 class="text-center font-semibold">9.	DATA INTEGRITY IN IP DOCKET SYSTEM </h1>'+
+                  '<div class="w=full">' +
                       '<p class=" mt-8 text-gray-500 dark:text-gray-400 text-justify "> Our client is a well-known US law firm, and had concerns about the integrity of the data in their IP docket system. The records included US and non-US cases for patents and trademarks. The causes of their concern were migration to a new docket platform, a significant number of new client intakes and multiple hands entering data in docket system. A customized solution was developed, wherein we agreed on a list of fields for each record in their system that would be compared to source data. The client provided their data by record and fields within the record via Excel which was extracted from their docket system. We ran a script to pull data that is available electronically and through paid databases.We populated mirror fields from source data and highlighted discrepancies. Where no electronic data was available, we utilized their foreign agent network to manually retrieve data. We found an overall error rate of about 35%,15% of which were deemed critical. We engaged on this project in late 2018 and completed it in around 6 weeks. The client was very pleased at how cost effective this important exercise was, the turn-around time and most importantly, the ability to address errors or omissions head-on, reducing risk to the firm and their clients.'+
                       '</p>' +
                   '</div>' +        
@@ -247,7 +247,7 @@ function docketsystem(){
           '</div>' +
         '</section>',
         
-        
+        title: "DATA INTEGRITY IN IP",
         showCloseButton: true,
         showCancelButton: false,
         showConfirmButton:false,
@@ -264,7 +264,7 @@ function datavarificationfun(){
           ' <section class="bg-white dark:bg-gray-800"> ' +
           '<div class="container px-8 pt-8 mx-auto">' +
               '<div class="items-start lg:flex">' +        
-                  '<div class="w=full">' +'<h1 class="text-center font-semibold">1.	DATA VERIFICATION </h1>'+
+                  '<div class="w=full">' +
                       '<p class=" mt-8 text-gray-500 dark:text-gray-400 text-justify ">1. One of our client took over a portfolio of 5000 patents and trademarks and created all the matters in the docketing software without any validation. Very soon, the matters started to collapse, we could see wrong filing/priority dates which was resulting in things being missed. Effectual Services helped this client validate the entire portfolio, corrected all the data in the software and docketed all the active due dates for each and every matter. Error rate was around 40 percent in this case.'+
                       '</p>' +'<p class=" mt-8 text-gray-500 dark:text-gray-400 text-justify">2. Another client transferred the entire portfolio from one docketing software to another. After the transfer it was noted the entries to have no active task or due dates It was also found that the bibliographic information entered in the system was not in sync with the respective PTO. Effectual Services steps in and takes the charge. We not only updated the entire bibliographic data but also made sure all the irrelevant entries are marked. All the upcoming task and due dates are created for not only US but also Non US jurisdictions. Error rate was around 60 percent in this case.</p>'+
                   '</div>' +        
@@ -275,7 +275,7 @@ function datavarificationfun(){
           '</div>' +
         '</section>',
         
-        
+        title: "DATA VERIFICATION",
         showCloseButton: true,
         showCancelButton: false,
         showConfirmButton:false,
